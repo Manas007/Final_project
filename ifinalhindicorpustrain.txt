@@ -1,0 +1,695 @@
+बेनीमाधव/Noun सिंह/Noun गौरीपुर/Noun गाँव/Noun के/Preposition जमींदार/Noun और/Conjunction नम्बरदार/Noun थे/AuxVerb ./Full
+ उनके/Pronoun पितामह/Noun किसी/Adjective समय/Noun बड़े/Adjective धनधान्य/Adjective संपन्न/Adjective थे/AuxVerb
+ गाँव/Noun का/Preposition पक्का/Adjective तालाब/Noun और/Conjunction मंदिर/Noun जिनकी/Preposition अब/Adverb मरम्मत/Noun भी/Adverb मुश्किल/Adjective थी/AuxVerb 
+ उन्हीं/Pronoun की/Preposition कीर्तिस्तंभ/Noun थे/AuxVerb ./Full
+ कहते/Verb हैं/AuxVerb इस/Adjective दरवाजे/Noun पर/Conjunction हाथी/Noun झूमता/Verb था/AuxVerb ./Full
+ अब/Adverb उसकी/Pronoun जगह/Noun एक/Adjective बूढ़ी/Adjective भैंस/Noun थी/AuxVerb जिसके/Adverb शरीर/Noun में/Preposition अस्थिपंजर/Noun के/Preposition सिवा/Noun और/Conjunction कुछ/Noun शेष/Verb न/Noun रहा/Verb था/AuxVerb ./Full
+ पर/Conjunction दूध/Noun शायद/Adjective बहुत/Adverb देती/Verb थी/AuxVerb क्योंकि/Conjunction एक/Adjective न/Noun एक/Adjective आदमी/Noun हाँड़ी/Noun लिये/Preposition उसके/Pronoun सिर/Noun पर/Conjunction सवार/Verb ही/AuxVerb रहता/Verb था/AuxVerb ./Full
+ बेनीमाधव/Noun सिंह/Noun अपनी/Pronoun आधी/Noun से/Preposition अधिक/Adjective संपत्ति/Noun वकीलों/Noun को/Preposition भेंट/Noun कर/AuxVerb चुके/Noun थे/AuxVerb ./Full
+ उनकी/Pronoun वर्तमान/Adjective आय/Noun एक/Adjective हजार/Adjective रुपये/Noun वार्षिक/Preposition से/Preposition अधिक/Verb न/Noun थी/AuxVerb ./Full
+ ठाकुर/Noun साहब/Noun के/Preposition दो/AuxVerb बेटे/Noun थेबड़े/Preposition का/Preposition नाम/Noun श्रीकंठ/Noun सिंह/Noun था/AuxVerb ./Full
+ उसने/Pronoun बहुत/Adjective दिनों/Noun के/Preposition परिश्रम/Noun और/Conjunction उद्योग/Noun के/Preposition बाद/Adjective बी/Adverb ए/Noun की/Preposition डिग्री/Noun प्राप्त/Verb की/Preposition थी/AuxVerb ./Full
+ अब/Adverb एक/Adjective दफ्तर/Noun में/preposition नौकर/Noun था/AuxVerb ./Full
+ छोटा/Adjective लड़का/Preposition लालबिहारी/Noun सिंह/Noun दोहरे/Noun बदन/Noun का/Preposition सजीला/Adjective जवान/Noun था/AuxVerb ./Full
+ भैंस/Noun का/Preposition दो/Adjective सेर/Noun ताजा/Adjective दूध/Noun वह/Pronoun उठ/InVerb कर/AuxVerb सबेरे/Verb पी/Noun जाता/Adjective था/AuxVerb ./Full
+ श्रीकंठ/Noun सिंह/Noun की/Preposition दशा/Noun बिलकुल/Adverb विपरीत/Verb थी/AuxVerb ./Full
+ इन/Noun नेत्रप्रिय/Adjective गुणों/Noun को/Preposition उन्होंने/Pronoun बी/Adverb एइन्हीं/Verb दो/AuxVerb अक्षरों/Noun पर/Conjunction न्योछावर/Noun कर/AuxVerb दिया/Verb था/AuxVerb ./Full
+ इन/Noun दो/AuxVerb अक्षरों/Noun ने/Preposition उनके/Preposition शरीर/Noun को/Preposition निर्बल/Verb और/Conjunction चेहरे/Noun को/Preposition कांतिहीन/Adjective बना/Noun दिया/Verb था/AuxVerb ./Full
+ इसी/Adverb से/Preposition वैद्यक/Adjective ग्रंथों/Noun पर/Conjunction उनका/Pronoun विशेष/Noun प्रेम/Verb था/AuxVerb
+ आयुर्वैदिक/Noun औषधियों/Noun पर/Conjunction उनका/Pronoun अधिक/Noun विश्वास/Verb था/AuxVerb ./Full
+ शामसबेरे/Preposition से/Preposition उनके/Adjective कमरे/Noun से/Preposition प्रायः/Adjective खरल/Noun की/Preposition सुरीली/Adjective कर्णमधुर/Adjective ध्वनि/Noun सुनायी/Adjective दिया/Verb करती/Verb थीलाहौर/Verb और/Conjunction कलकत्ते/Verb के/Preposition वैद्यों/Noun से/Preposition बड़ी/Noun लिखापढ़ी/Noun रहती/Verb थी/AuxVerb ./Full
+ एक/Adjective चिड़िया/Noun थी/AuxVerb ./Full
+ उसका/Pronoun नाम/Noun चींची/Noun था/AuxVerb ./Full
+ एक/Adjective दिन/Noun की/Preposition बात/Noun है/AuxVerb ./Full
+ चीची/Adjective चिड़िया/Noun गाय/Noun के/Preposition पास/ बैठी/Verb थी/AuxVerb ./Full
+ वह/Pronoun दाने/Noun चुगचुग/Verb कर/AuxVerb खा/Verb रही/AuxVerb थी/AuxVerb ./Full
+ गाय/Noun ने/Preposition गोबर/Noun किया/AuxVerb ./Full
+चिड़िया/Noun ने/Preposition कहा/Verb कि/Conjunction सुखा/Verb तो/Conjunction ले/Noun ./Full
+ कुत्ते/Noun ने/Preposition चिड़िया/Noun को/Preposition धूप/Noun में/Preposition रख/Verb दिया/Verb
+ थोड़ी/Noun देर/Adverb में/Preposition चिड़िया/Noun के/Preposition पंख/Noun सूख/Noun गये/Verb
+ वह/Pronoun फुर्र/Adjective करके/Noun उड़/Verb गई/Verb ./Full
+ कुत्ते/Noun मुँह/Noun देखता/Verb रह/AuxVerb गया/Verb ./Full
+ एक/Adjective बार/Adjective बड़ी/Noun गरमी/Noun पड़/Verb रही/AuxVerb थी/AuxVerb
+ एक/Adjective कौआ/Noun बड़ा/Adjective प्यासा/Noun था/AuxVerb
+ उसने/Pronoun इधर/Noun उधर/Adverb उड़कर/Verb पानी/Noun ढूँढा/Verb
+ पानी/Noun कहीं/Conjunction न/Noun मिला/Noun
+ अचानक/Adjective उसे/Pronoun एक/Adjective घड़ा/Noun दिखाई/Verb दिया/Verb
+ कौआ/Noun बहुत/Adjective खुश/Adjective हुआ/Verb
+ वह/Pronoun उड़कर/Verb घड़े/Noun के/Preposition पास/Noun पहुँचा/Noun
+ लेकिन/Conjunction घड़ें/Noun में/Preposition पानी/Noun कम/Verb था/AuxVerb
+ इसलिए/Conjunction कौए/Noun की/Preposition चोंच/Noun पानी/Noun तक/Verb न/Noun पहुँच/Noun सकी/Verb  
+ कौए/Noun ने/Preposition एक/Adjective उपाय/Noun सोचा/Verb
+ वह/Pronoun अपनी/Pronoun चोंच/Noun से/Preposition कंकड़/Verb उठाकर/Verb घड़े/Noun में/Preposition डालने/Verb लगा/Verb
+ इसी/Adverb तरह/Noun कौआ/Noun घड़े/Noun में/Preposition कंकड़/Noun डालता/Verb गया/Verb
+ धीरेधीरे/Adjective घड़े/Noun का/Preposition पानी/Noun ऊपर/Noun चढ़/Verb आया/Verb
+ कौआ/Noun घड़े/Noun पर/Conjunction जा/Verb बैठा/Verb
+ लो/Verb उसकी/Pronoun चोंच/Noun पानी/Noun तक/Preposition पहुँच/Adjective गई/Verb  
+ कौए/Noun ने/Preposition खूब/Adjective पानी/Noun पिया/Verb
+ फ़िर/Noun वह/Pronoun पेड़/Noun पर/Conjunction आराम/Noun करने/Noun चला/Verb गया/Verb
+ सवेरा/Noun हुआ/Verb
+ चूँचूँ/Noun चूहा/Noun अपने/Adverb बिल/Preposition से/Preposition बाहर/Noun निकलने/Verb लगा/Verb
+ सामने/Adjective बिल्ली/Noun बैठी/Verb थी/AuxVerb
+ चूहे/Noun ने/Preposition सोचा/Verb मैं/Pronoun बाहर/Adjective निकला/Noun तो/Conjunction बिल्ली/Noun मुझे/Pronoun खा/Verb जायेगी/Verb  /Interjection
+ बिल्ली/Noun कहने/Noun लगी/Verb प्यारे/Preposition चूँचूँ/Noun बाहर/Noun आओ/Verb  /Interjection
+ चूँचूँ/Noun ने/Preposition कहा/Verb मैं/Pronoun बाहर/Verb नहीं/Noun आऊँगा/Verb बिल्ली/Noun ने/Preposition कहा/Verb क्यों/Noun  /Interjection
+ चूँचूँ/Noun कहने/Noun लगा/Verb मैं/Pronoun बाहर/Preposition आया/Verb तो/Conjunction तुम/Pronoun मुझे/Pronoun खा/Verb जाओगी/Preposition  /Interjection
+ बिल्ली/Noun ने/Preposition कहा/Verb मैं/Pronoun तुम्हें/Noun क्यों/Noun खाऊँगी/Verb
+ मैं/Pronoun तुम्हें/Noun क्यों/Noun खाऊँगी/Verb
+ मैं/Pronoun तो/Conjunction तुम्हें/Noun मित्र/Adjective बनाने/Noun आई/Noun हूँ/AuxVerb
+ यह/Pronoun देखो/Interjection मैंने/Interjection हाथ/Noun बढ़ाया/Verb है/AuxVerb
+ तुम/Pronoun मुझसे/Preposition हाथ/Noun मिलाओ/Noun
+ मेरे/Pronoun मित्र/Noun बन/Verb जाओ/Verb 
+ चूँचूँ/Noun बोला/Verb बिल्ली/Noun मौसी/Noun मैं/Pronoun नहीं/Noun आऊँगा/Verb
+ तुम/Pronoun जाओ/Verb
+ उधर/Adverb देखो/Verb टीपू/Noun कुत्ता/Noun खड़ा/Verb है/AuxVerb
+ उससे/Adverb हाथ/Noun मिलाओ/Noun  
+ बिल्ली/Noun ने/Preposition कुत्ते/Noun को/Preposition देखा/Verb
+ उसको/Pronoun तो/Conjunction नानी/Noun मर/Verb गई/Verb
+ वह/Pronoun उछल/Verb कर/AuxVerb खिड़की/Noun पर/Conjunction चढ़/Verb गई/Verb
+ किसी/Adjective तरह/Noun उसने/Pronoun जान/Noun बचाई/Verb
+ एक/Adjective गाँव/Noun के/Preposition पास/Noun नहर/Noun बहती/Noun थी/AuxVerb
+ उस/Pronoun नहर/Noun पर/Conjunction लकड़ी/Noun के/Preposition तने/Noun का/Preposition एक/Adjective पुल/Noun था/AuxVerb
+ वह/Pronoun कम/Adjective चौड़ा/Noun था/AuxVerb
+ उस/Pronoun पर/Conjunction से/Preposition एक/Adjective बार/Noun में/Preposition एक/Adjective ही/AuxVerb आदमी/Noun या/Conjunction पशु/Noun जा/Verb सकता/Verb था/AuxVerb
+ एक/Adjective दिन/Noun की/Preposition बात/Noun है/AuxVerb
+ एक/Adjective बकरी/Noun पुल/Noun पर/Conjunction इधर/Noun से/Preposition आई/Noun
+ एक/Adjective बकरी/Noun उधर/Adverb से/Preposition आई/Noun
+ यह/Adjective कहने/Noun लगी/Verb कि/Conjunction तू/Pronoun कहाँ/Adjective जा/Verb रही/AuxVerb है/AuxVerb
+ उसने/Pronoun कहा/Verb कि/Conjunction मैं/Pronoun पार/Noun जा/Verb रही/AuxVerb हूँ/AuxVerb और/Conjunction तू/Pronoun कहाँ/Adjective जा/Verb रही/AuxVerb है/AuxVerb
+ उसने/Pronoun कहा/Verb कि/Conjunction मैं/Pronoun अपने/Adverb गाँव/Noun जा/Verb रही/AuxVerb हूँ/AuxVerb
+ यह/Adjective कहने/Noun लगी/Verb कि/Conjunction पहले/Adjective मैं/Pronoun पार/Noun जाऊँगी/Verb
+ तू/Pronoun पीछे/Noun चली/Verb जा/Verb
+ वह/Pronoun कहने/Noun लगी/Verb कि/Conjunction पहले/Adjective मैं/Pronoun पार/Noun जाऊँगी/Verb
+ तू/Pronoun पीछे/Noun चली/Verb जा/Verb 
+ यह/Adjective कहने/Noun लगी/Verb कि/Conjunction पहले/Adjective मैं/Pronoun पार/Noun जाऊँगी/Verb मैं/Pronoun पीछे/Noun क्यों/Noun जाऊँ/Verb  /Interjection
+ मैंमैं/Adjective करके/Noun वे/Pronoun दोनों/Adjective लड़ने/Noun लगीं/Verb
+ लड़तेलड़ते/Noun दोनों/Adjective बकरियाँ/Noun नहर/Noun में/Preposition गिर/Verb पड़ीं/Noun
+ एक/Adjective लोमड़ी/Noun दो/AuxVerb दिन/Noun से/Preposition भूखी/Verb थी/AuxVerb
+ उसे/Pronoun खाने/Noun को/Verb कही/Conjunction भी/Adverb कुछ/Verb न/Noun मिला/Noun था/AuxVerb
+ वह/Pronoun शहर/Noun की/Preposition ओर/Adjective आई/Noun
+ अचानक/Verb क्या/Conjunction देखती/Verb है/AuxVerb कि/Conjunction पेड़/Noun पर/Conjunction एक/Adjective कौआ/Noun बैठा/Verb है/AuxVerb
+ उस/Pronoun कौए/Noun के/Preposition मुँह/Noun मे/Preposition एक/Adjective साबुत/Noun रोटी/Noun है/AuxVerb
+ लोमड़ी/Noun के/Preposition मुँह/Noun में/Preposition पानी/Adjective भर/Noun आया/Verb
+ उसने/Pronoun एक/Adjective उपाय/Noun सोचा/Verb
+ वह/Pronoun कौए/Noun की/Preposition बड़ाई/Verb करने/Noun लगी/Verb
+ भाई/Noun कौए/Noun तुम/Pronoun कितने/Adjective सुन्दर/Verb हो/AuxVerb
+ तुम्हारे/Noun पंख/Noun कितने/Adjective सुन्दर/Adjective हैं/AuxVerb
+ तुम/Pronoun चाहे/Conjunction गंगा/Noun में/Preposition नहाओ/Verb चाहे/Conjunction यमुना/Noun में/Preposition तुम्हारा/Pronoun रंग/Noun एक/Adjective जैसा/Conjunction रहता/Verb है/AuxVerb
+ सचमुच/Adverb तुम/Pronoun पक्षियों/Noun के/Preposition राजा/Verb हो/AuxVerb
+ तुम्हारा/Noun गाना/Preposition बहुत/Adjective मीठा/Adjective है/AuxVerb बाँसुरी/Noun से/Preposition भी/Adverb मीठा/Adjective
+ आज/Adverb मेरा/Pronoun मन/Adjective तुम्हारा/Pronoun गाना/Adjective सुनने/Noun को/Preposition तरस/Verb रहा/Verb है/AuxVerb ज़रा/Noun गाकर/Verb सुनाओ/Verb  /Interjection
+ कौए/Noun ने/Preposition अपनी/Pronoun तारीफ़/Verb सुनी/Noun
+ वह/Pronoun फ़ूल/Noun कर/AuxVerb कुप्पा/Noun हो/AuxVerb गया/Verb
+ उसने/Pronoun गाने/Noun के/Preposition लिए/Noun चोंच/Noun खोली/Verb
+ चोंच/Noun खुलते/Verb ही/AuxVerb रोटी/Noun नीचे/Adjective आ/Adjective गिरी/Noun
+लोमड़ी/Noun बड़े/Adjective चाव/Noun से/Preposition उसे/Pronoun खाने/Noun लगी/Verb कौआ/Noun मुँह/Noun देखता/Verb रह/AuxVerb गया/Verb
+एक/Adjective चींटी/Noun थी/AuxVerb वह/Pronoun जा/Verb रही/AuxVerb थी/AuxVerb
+ राह/Noun में/Preposition एक/Adjective टिड्डा/Noun मिला/Noun
+ टिड्डा/Noun कहने/Noun लगा/Verb चींटी/Noun बहन/Noun जरा/Noun रुक/Verb जाओ/Verb
+ चींटी/Noun रुक/Verb गई/Verb पूछ्ने/Verb लगी/Verb क्या/Conjunction बात/Noun है/AuxVerb
+ टिड्डे/Noun ने/Preposition कहा/Verb मीठी/Noun मीठी/Noun हवा/Noun चल/Verb रही/AuxVerb है/AuxVerb
+ आओ/Verb बाग/Noun में/Preposition खेलें/Noun  /Interjection
+ चींटी/Noun ने/Preposition कहा/Verb मैं/Pronoun कैसे/Adverb खेलूँ/Verb
+ मुझे/Pronoun दाने/Adjective इकट्ठे/Verb करने/Noun हैं/AuxVerb
+ जब/Adverb बरसात/Noun आएगी/Noun तो/Conjunction छोटी/Noun चींटियाँ/Noun क्या/Noun खाएँगी/Verb
+ मुझे/Pronoun घर/Noun भी/Adverb ठीक/Noun करना/Verb है/AuxVerb
+ बरसात/Noun के/Preposition पानी/Preposition से/Preposition घर/Noun टूट/Verb सकता/Verb है/AuxVerb
+ टिड्डे/Noun ने/Preposition कहा/Verb हम/Pronoun तो/Conjunction खेलते/Noun हैं/AuxVerb जी/Noun 
+ एक/Adjective दिन/Noun बादल/Noun आ/Adjective गये/Verb
+ बरसात/Noun होने/Verb लगी/Verb
+ टिड्डा/Noun भीगता/Verb हुआ/Verb आया/Verb
+ चींटी/Noun का/Preposition दरवाज़ा/Noun खटखटा/Verb कर/AuxVerb कहने/Verb लगा/Verb चींटी/Noun बहन/Noun
+ मुझे/Pronoun भी/Adverb अपने/Adverb घर/Noun में/Preposition थोड़ी/Noun सी/Adjective जगह/Noun दे/AuxVerb दो/AuxVerb
+ मैं/Pronoun बुरी/Adjective तरह/Noun भीग/Adjective गया/Verb हूँ/AuxVerb
+ जब/Conjunction तक/Preposition बरसात/Noun होगी/AuxVerb तब/Conjunction तक/Preposition यहाँ/Noun रहूँगा/Verb
+ फ़िर/Noun चला/Verb जाऊँगा/Verb
+ चींटी/Noun बोली/Verb भाई/Noun टिड्डे/Noun
+ तुमने/Pronoun सारा/Adjective साल/Noun काम/Verb नहीं/Noun किया/AuxVerb
+ तुमने/Pronoun अपना/Pronoun घर/Noun नही/Adverb बनाया/Verb
+ संकट/Noun के/Preposition लिए/Noun कुछ/Adjective अनाज/Noun भी/Adverb जमा/Adjective करके/Noun नही/Adverb रखा/Verb
+ जाओ/Verb मैं/Pronoun तुम्हारी/Adjective सहायता/Adjective नही/Adverb कर/AuxVerb सकती/Verb जो/Conjunction अलसी/Noun हैं/AuxVerb उनकी/Noun यही/Noun दशा/Noun होती/AuxVerb है/AuxVerb 
+ टिड्डा/Noun गिड़गिड़ाया/Verb
+ कहने/Noun लगा/Verb चींटी/Noun बहन/Noun इस/Preposition बार/Noun क्षमा/Verb कर/AuxVerb दो/AuxVerb
+ आगे/Preposition से/Preposition मेहनत/Noun किया/AuxVerb करूँगा/Verb 
+ चींटी/Noun ने/Preposition टिडडे/Preposition को/Preposition चावल/Noun के/Preposition कुछ/Adjective दाने/Adjective दिये/Verb
+कहने/Noun लगी/Verb लो/Verb खाओ/Article लेकिन/Conjunction मेरे/Pronoun घर/Noun में/Preposition तुम्हारे/Pronoun लिए/Noun जगह/Verb नहीं/Noun है /Noun
+ टिड्डा/Noun रोता/Noun सा/Noun मुँह/Noun लेकर/Verb चला/Verb गया/Verb
+  किसी/Adjective गाँव/Noun में/Preposition एक/Adjective किसान/Noun रहता/Verb था/AuxVerb
+ उसके/Pronoun घर/Noun में/Preposition दो/Adjective बिल्लियाँ/Noun थीं/InVerb
+ एक/Adjective का/Preposition नाम/Noun था/AuxVerb पूसी/Noun और/Conjunction दूसरी/Adverb का/Preposition नाम/Noun था/AuxVerb मानो/Verb
+ एक/Adjective दिन/Noun दोनों/Adjective बाग/Noun को/Preposition जा/Verb रही/AuxVerb थीं/InVerb
+ उनको/Pronoun एक/Adjective रोटी/Noun पड़ी/Noun मिली/Noun
+ वे/Pronoun दोनों/Adjective उसे/Pronoun उठाकर/Verb बाग/Noun में/Preposition ले/Noun गई/Verb 
+ दोनों/Adjective बिल्लियों/Noun ने/Preposition रोटी/Noun के/Preposition दो/AuxVerb टुकड़े/Verb कर/AuxVerb लिये/Verb
+ दोनों/Verb ने/Preposition एकएक/Determiner टुकड़ा/Noun ले/Noun लिया/AuxVerb पूसी/Adjective बोली/Noun मेरा/Pronoun टुकड़ा/Noun छोटा/Verb है/AuxVerb
+ तेरा/Adjective टुकड़ा/Noun बड़ा/Verb है/AuxVerb
+ दोनों/Adjective बिल्लियाँ/Noun आपस/Adjective में/Preposition झगड़ने/Verb लगीं/Preposition 
+ इतने/Noun में/Preposition वहाँ/Preposition एक/Adjective बन्दर/Noun आया/Verb
+ कहने/Noun लगा/Verb बहनो/Noun क्या/Conjunction बात/Noun है/AuxVerb क्यों/Adjective आपस/Adjective में/Preposition लड़/Noun रही/AuxVerb हो/AuxVerb 
+ जब/Adverb बन्दर/Noun को/Preposition बात/Noun का/Preposition पता/Noun लगा/Verb तो/Conjunction उसने/Pronoun कहा/Verb बहनो/Noun मैं/Pronoun बराबर/Adjective रोटी/Adjective बाँटकर/Noun तुम्हारा/Noun फ़ैसला/Noun कर/AuxVerb दूँ/Noun 
+ बन्दर/Noun एक/Adjective तराज़ू/Noun ले/Noun आया/Verb
+ उसने/Pronoun रोटी/Noun का/Preposition एक/Adjective टुकड़ा/Noun एक/Adjective पलड़े/Noun में/Preposition डाला/Noun
+ दूसरा/Adjective टुकड़ा/Noun दूसरे/Adjective पलड़े/Noun में/Preposition डाला/Verb
+ फ़िर/Noun बन्दर/Noun ने/Preposition कहा/Verb दायें/Noun पलड़े/Adjective वाला/Adjective टुकड़ा/Noun बड़ा/Verb है/AuxVerb
+ इतना/Preposition कहकर/Adjective उसने/Pronoun थोड़ी/Noun सी/Noun रोटी/Noun तोड़ी/Verb और/Conjunction मुँह/Noun में/Preposition रख/Verb ली/Verb 
+ अब/Adjective बायां/Noun पलड़ा/Noun ज़रा/Noun नीचे/Adjective झुक/Noun गया/Verb
+ बन्दर/Noun कहने/Noun लगा/Verb बायें/Noun पलड़े/Adjective वाला/Adjective टुकड़ा/Noun बड़ा/Verb है/AuxVerb
+ यह/Pronoun कहकर/Adjective उसने/Pronoun थोड़ी/Noun सी/Noun रोटी/Preposition तोड़ी/Verb और/Conjunction मुँह/Noun में/Preposition रख/Verb ली/Verb
+ इसी/Adverb तरह/Noun बन्दर/Noun कभी/Adverb दायें/Noun पलड़े/Verb की/Preposition रोटी/Noun तोड़/Verb कर/AuxVerb खा/Verb लेता/InVerb कभी/Adverb बायें/Noun पलड़े/Verb की/Preposition खा/Verb लेता/InVerb 
+ जब/Adverb दोनों/Noun टुकड़े/Verb छोटे/Adjective रह/AuxVerb गये/Verb तो/Conjunction बिल्लियाँ/Noun घबराई/Verb
+ कहने/Verb लगीं/Verb भाई/Noun बन्दर/Noun
+ हमारे/Noun टुकड़े/Verb हमें/Preposition दे/AuxVerb दो/AuxVerb
+ हम/Pronoun अपने/Adverb आप/Pronoun बाँट/Verb लेंगी/Verb 
+ बन्दर/Noun ने/Preposition कहा/Verb कितनी/Noun देर/Adverb से/Preposition मैं/Pronoun तुम्हारे/Noun झगड़े/Noun का/Preposition फ़ैसला/Noun कर/AuxVerb रहा/Verb हूँ/AuxVerb
+ यह/Verb तो/Conjunction मेरी/Noun फ़ीस/Noun है/AuxVerb 
+ इतना/Adverb कहकर/Verb बन्दर/Noun ने/Preposition बाकी/Adjective रोटी/Preposition भी/Adverb मुँह/Noun में/Preposition रख/Verb ली/Verb
+ फ़िर/Noun वह/Pronoun पेड़/Noun पर/Conjunction जा/Verb चढ़ा/Verb
+ बिल्लियाँ/Noun बहुत/Adverb पछताई/Verb
+ उन्होंने/Pronoun कहा/Verb आगे/Preposition से/Preposition हम/Pronoun कभी/Adverb आपस/Adjective में/Preposition नही/Adverb लड़ेंगी/Verb
+ नेहा/Noun ने/Preposition सुना/Verb पापा/Noun कहे/Verb जा/Verb रहे/Verb थे/AuxVerb सड़क/Verb की/Preposition भी/Adverb एक/Adjective लय/Noun होती/AuxVerb है/AuxVerb
+ इसे/Preposition सुनो/Verb पहचानो/Verb और/Conjunction उसी/Pronoun हिसाब/Noun से/Preposition गाड़ी/Noun चलाओ/Verb
+ जब/Adverb तुम/Pronoun मैनहैट्टन/Noun में/Preposition चलाती/Noun हो/AuxVerb तो/Conjunction यहाँ/Preposition सैंकड़ों/Noun गाड़ियाँ/Noun एक/Adjective साथ/Adverb चलती/Noun हैं/AuxVerb
+ बारबार/Verb लाल/Adjective बत्ती/Noun होने/Verb से/Preposition रुकना/Verb पड़ता/Noun है/AuxVerb इसीलिए/Preposition गाड़ी/Noun की/Preposition स्पीड/Noun खूब/Noun धीमी/Noun रखनी/Adjective चाहिए/Verb ताकि/Preposition घचके/Preposition से/Preposition ब्रेक/Noun लगाने/Noun की/Preposition ज़रूरत/Noun ना/AuxVerb पड़े/Verb
+ परसों/Adjective नेहा/Noun का/Preposition ड्राइविंग/Verb का/Preposition इम्तहान/Noun है/AuxVerb
+ यों/Noun तो/Conjunction नेहा/Noun ड्राइविंग/Adjective स्कूल/Noun में/Preposition कार/Noun चलाना/Adjective सीखती/Noun रही/AuxVerb है/AuxVerb पर/Conjunction एक/Adjective बार/Adjective टेस्ट/Noun में/Preposition फेल/Verb होने/Verb के/Preposition बाद/Adjective वह/Pronoun काफी/Noun नर्वस/Verb है/AuxVerb और/Conjunction पापा/Noun ने/Preposition कहा/Verb कि/Conjunction वह/Pronoun इसका/Preposition कुछ/Adjective अभ्यास/Noun करवा/Verb देंगे/Noun
+ पापा/Noun की/Preposition तो/Conjunction ड्राइविंग/Adjective बढ़िया/Noun होती/AuxVerb ही/AuxVerb हैकितने/Adjective बरसों/Noun से/Preposition तो/Conjunction चला/Verb रहे/Verb हैं/AuxVerb वे/Adjective गाड़ी/Noun
+ छोटी/Noun थी/AuxVerb तो/Conjunction ज़िद/Noun करती/Verb थी/AuxVerb गाड़ी/Noun चलाने/Verb की/Preposition
+ पर/Conjunction तब/Conjunction पापा/Noun कहा/Noun करते/Verb थे/AuxVerb बड़ी/Verb हो/AuxVerb जाओ/Verb तब/Conjunction सिखाएँगे/Preposition तुमको/Pronoun गाड़ी/Noun
+ पर/Conjunction कालेज/Noun जाने/Noun पर/Conjunction उसे/Pronoun वक्त/Noun ही/AuxVerb नहीं/Noun मिला/Noun
+ अब/Verb तो/Conjunction नौकरी/Noun भी/Adverb शुरू/Adjective हो/AuxVerb गई/Verb और/Conjunction उसे/Pronoun होश/Noun आया/Verb है/AuxVerb गाड़ी/Noun सीखने/Noun का/Preposition
+ तेईस/Noun बरस/Noun की/Preposition उम्र/Noun में/Preposition गाड़ी/Noun चलाना/Adjective सीख/Noun रही/AuxVerb है/AuxVerb
+ सबर्ब/Preposition में/Preposition रहने/Verb वाले/Adjective लड़के/Noun लड़कियाँ/Noun तो/Conjunction सोलह/Pronoun साल/Noun के/Preposition होते/AuxVerb ही/AuxVerb चलाने/Verb लगते/Noun हैं/AuxVerb
+ पर/Conjunction नेहा/Verb तो/Conjunction मैनहैट्टन/Preposition में/Preposition रहती/Preposition हैयहाँ/Adjective गाड़ी/Noun की/Preposition वैसी/Adjective ज़रूरत/Noun पड़ती/Verb ही/AuxVerb नहीं/Noun वर्ना/Noun वह/Pronoun भी/Adverb पहले/Adjective सीख/Noun जाती/Adjective
+ भैया/Noun भी/Adverb तो/Conjunction लेट/Verb सीखा/Verb था/AuxVerb नौकरी/Noun लगने/Noun पर/Conjunction ही/AuxVerb
+ ममा/Noun तो/Conjunction आजतक/Adverb नहीं/Noun सीखींतो/Adjective इतनी/Noun कोई/Adjective बात/Noun नहीं/Noun देर/Adverb से/Preposition सीखने/Noun में/Preposition
+ पर/Conjunction नेहा/Noun अब/Noun तैयार/Verb है/AuxVerb हर/Adjective चीज़/Noun के/Preposition लिएयों/Adjective नेहा/Noun हर/Adjective काम/Noun सीखने/Verb के/Preposition लिए/Noun वक्त/Noun से/Preposition पहले/Noun तैयार/Verb रहती/Verb है/AuxVerb
+ उसके/Pronoun स्कूल/Noun की/Preposition टीचर/Noun भी/Adverb यही/Noun कहा/Preposition करती/Verb थीयही/Adjective बात/Noun है/AuxVerb कि/Conjunction उसे/Pronoun हर/Preposition काम/Preposition आसान/Noun लगा/Verb करता/Noun था/AuxVerb
+ क्लास/Noun में/Preposition वह/Pronoun हमेशा/Noun आगे/Verb ही/AuxVerb रही/AuxVerb
+ पर/Conjunction उसके/Pronoun इसी/Adverb गुण/Preposition को/Preposition लेकर/Verb ममी/Noun की/Preposition सहेली/Noun ने/Preposition नेहा/Noun को/Preposition प्रिकाशस/Adjective बच्ची/Noun कहा/Verb था/AuxVerb यानी/Verb कि/Conjunction वक्त/Noun से/Preposition पहले/Verb ही/AuxVerb प्रिपेयर्ड/Verb
+ वह/Pronoun गुण/Verb की/Preposition तरह/Verb नहीं/Noun बल्कि/Preposition एक/Adjective दोष/Noun की/Preposition तरह/Verb ही/AuxVerb सुनाया/Verb गया/Verb था/AuxVerb यों/Noun बात/Noun भी/Adverb कुछ/Adjective अजीबसी/Noun हो/AuxVerb गई/Verb थी/AuxVerb
+ तब/Conjunction वह/Pronoun ग्यारह/Adjective बरस/Noun की/Preposition रही/AuxVerb होगीक्लास/Noun में/Preposition जैनी/Verb ने/Preposition सब/Adjective लड़कियों/Noun से/Preposition पूछा/Verb था/AuxVerb तुम/Pronoun में/Preposition से/Preposition कौन/Noun कौन/Noun वर्जिन/Noun है/AuxVerb
+ नेहा/Noun को/Preposition वर्जिन/Noun का/Preposition मतलब/Verb ही/AuxVerb नहीं/Noun पता/Noun था/AuxVerb
+ पर/Conjunction उसने/Pronoun देखा/Verb कि/Conjunction जिस/Noun लड़की/Noun ने/Preposition भी/Adverb कहा/Verb कि/Conjunction वह/Pronoun वर्जिन/Noun है/AuxVerb उसका/Pronoun जैनी/Verb और/Conjunction उसकी/Pronoun सहेलियों/Noun ने/Preposition खूब/Noun मज़ाक/Noun उड़ाया/Verb था/AuxVerb
+ ना/AuxVerb ही/AuxVerb नेहा/Noun की/Preposition हिम्मत/Noun पड़ती/Verb थी/AuxVerb अपनी/Pronoun सहपाठियों/Noun पर/Conjunction अनजानापन/Noun ज़ाहिर/Verb करने/Noun की/Preposition
+ पर/Conjunction घर/Adjective आकर/Noun उसने/Pronoun पहला/Adjective काम/Noun यही/Noun किया/AuxVerb कि/Conjunction ममी/Noun के/Preposition अपनी/Pronoun सहेली/Noun के/Preposition साथ/Noun बैठे/Verb होने/Verb पर/Conjunction भी/Adverb ध्यान/Noun न/Noun दे/AuxVerb टपककर/Noun सवाल/Adjective पूछ/Noun लिया/AuxVerb ममी/Noun वर्जिन/Noun क्या/Noun होता/Verb है/AuxVerb
+ ममी/Noun अभी/Adverb सवाल/Verb के/Preposition प्रति/Noun सतर्क/Adjective भी/Adverb नहीं/Noun हुई/Noun थीं/InVerb कि/Conjunction नेहा/Noun ने/Preposition जोड़/Noun दिया/Verb
+ मैं/Pronoun तो/Conjunction वर्जिन/Noun नहीं/Noun हूँ/AuxVerb न/Noun ममी/Noun
+ इससे/Preposition पहले/Verb कि/Conjunction ममी/Noun के/Preposition अवाक/Adjective चेहरे/Noun पर/Conjunction कोई/Adjective हरकत/Noun होती/AuxVerb ममी/Noun की/Preposition सहेली/Noun बोल/Preposition उठी/InVerb थीं/InVerb
+ माई/Noun गॉड/Noun कितनी/Noun प्रिकाशस/Adjective बच्ची/Noun है/AuxVerb
+ मुँह/Noun से/Preposition दूध/Noun निकला/Noun नहीं/Noun कि/Conjunction वर्जिनिटी/Verb के/Preposition सवाल/Adjective उठने/Noun लगे/Verb
+ भई/Noun अभी/Adverb तो/Conjunction तुम्हारे/Noun पढ़ने/Adjective खेलने/Noun की/Preposition उम्र/Noun है/AuxVerb
+ यह/Preposition सब/Adjective जानकर/Noun करना/Verb भी/Adverb क्या/Verb है/AuxVerb
+ ममी/Noun ने/Preposition मानो/Adjective होश/Noun में/Preposition आते/Noun हुए/Noun कहा/Verb था/AuxVerb
+ नेहा/Noun तुम/Pronoun ते/AuxVerb इतनी/Noun अच्छी/Adjective इतनी/Noun अकलमंद/Noun बच्ची/Noun हो/AuxVerb तुम्हें/Noun इन/Noun सब/Adjective बातों/Noun में/Verb नहीं/Noun पड़ना/Verb चाहिए/Verb
+ ऐसी/Adjective अमरीकी/Noun लड़कियों/Noun की/Preposition संगत/Noun में/Preposition पड़ो/Verb ही/AuxVerb नाबस/Preposition अपना/Adjective फोकस/Noun पढ़ाई/Noun पर/Conjunction ही/AuxVerb रखो/Verb
+ अपनी/Pronoun नज़र/Verb में/Preposition आज/Adverb भी/Adverb नेहा/Noun उतनी/Noun ही/AuxVerb भोली/Noun या/Conjunction समझदार/Verb थी/AuxVerb
+ सवाल/Noun पूछने/Verb से/Preposition पहले/Verb लेकिन/Conjunction उसे/Pronoun लगा/Verb कि/Conjunction सवाल/Noun मात्र/Noun पूछने/Verb से/Preposition ही/AuxVerb वह/Pronoun ममी/Noun पापा/Noun की/Preposition नज़र/Verb में/Preposition कुछ/Verb और/Conjunction हो/AuxVerb गई/Verb थी/AuxVerb
+ तब/Conjunction से/Preposition नेहा/Noun को/Preposition लगा/Verb कि/Conjunction ममी/Noun पापा/Noun को/Preposition वह/Pronoun सबसे/Adjective प्यारी/Noun तभी/Adverb लगती/Verb है/AuxVerb जबकि/Conjunction वह/Pronoun भोली/Noun नन्हीं/Noun बच्ची/Noun बनी/Noun रहती/Verb है/AuxVerb
+ जिसे/Conjunction कुछ/Noun नहीं/Noun मालूम/Verb दुनिया/Noun बेहद/Adjective खुश/Adjective होते/AuxVerb जब/Adverb वह/Pronoun तोतली/Verb ज़बान/Noun में/Preposition हिन्दी/Noun में/Preposition बतियाती/Verb
+ पर/Conjunction जहाँ/Noun स्कूल/Noun के/Preposition काम/Noun का/Preposition सवाल/Verb था/AuxVerb वे/Pronoun उससे/Adverb पूरी/Noun बल्कि/Preposition सामान्य/Preposition से/Preposition ज़्यादा/Adjective परिपक्वता/Noun की/Preposition उम्मीद/Noun करते/Verb
+ उसे/Pronoun याद/Verb है/AuxVerb कि/Conjunction एक/Adjective बार/Noun उसके/Pronoun इम्तहान/Noun में/Preposition नम्बर/Noun कम/Adjective आए/Verb थे/AuxVerb तो/Conjunction उन्होंने/Pronoun कहा/Verb था/AuxVerb डोंट/Verb एँड/Noun अप/Verb बिइंग/Preposition मेडयाकर/Adjective यू/Adjective मस्ट/Noun एक्सेल/Noun इन/Noun योर/Noun स्टडीज़/Preposition
+ अब/Adjective इतने/Noun बरसों/Noun बाद/Adjective भी/Adverb परिपक्वता/Noun या/Conjunction अपरिपक्वता/Noun की/Preposition वह/Pronoun द्विविधा/Noun शायद/Adjective सुलझी/Verb नहीं/Noun दिखती/Verb
+ किन/Verb चीज़ों/Verb में/Preposition बढ़िया/Noun हो/AuxVerb जाना/Adjective चाहिए/Verb और/Conjunction किन/Verb में/Preposition नहीं/Noun इसका/Preposition माप/Noun तोल/Verb चलता/Noun ही/AuxVerb रहता/Verb है/AuxVerb
+ एक/Adjective बार/Adjective गाड़ी/Noun चलाना/Preposition सीखतेसीखते/Preposition वे/Adjective लोग/Noun मैनहैट्टेन/Preposition को/Preposition दाएँ/Adjective बाएँ/Noun से/Preposition घेरने/Verb वाली/Noun हाईवे/Noun पर/Conjunction आ/Adjective गए/Verb थे/AuxVerb
+ पर/Conjunction नेहा/Noun अभी/Adverb भी/Adverb धीमी/Noun गति/Noun से/Preposition ही/AuxVerb चला/Verb रही/AuxVerb थी/AuxVerb
+ पापा/Noun बोले/Verb जब/Adverb तुम/Pronoun हाईवे/Noun पर/Conjunction चलती/Noun हो/AuxVerb ते/AuxVerb स्पीड/Noun तेज़/Adjective रखनी/Verb होती/AuxVerb है/AuxVerb
+ सड़क/Noun भी/Adverb खूब/Noun चौड़ी/Noun होती/AuxVerb है/AuxVerb और/Conjunction लाल/Adjective बत्तियाँ/Noun भी/Adverb नहीं/Noun होतीं/Noun
+ साथ/Noun ही/AuxVerb दूसरी/Adverb कारें/Noun भी/Adverb इतनी/Noun तेज़ी/Adjective से/Preposition चल/Verb रही/AuxVerb होती/AuxVerb हैं/AuxVerb
+ अगर/Conjunction तुम/Pronoun धीमा/Adjective चलाओगी/Verb तो/Conjunction सारे/Adverb यातायात/Preposition में/Preposition व्यतिक्रम/Noun और/Conjunction गतिरोध/Adjective पैदा/Adjective हो/AuxVerb जाएगा/Preposition
+ इसी/Adverb से/Preposition कह/Verb रहा/Verb हूँ/AuxVerb कि/Conjunction सड़क/Verb की/Preposition लय/Noun को/Preposition सबसे/Adjective पहले/Adjective समझना/Verb चाहिएतभी/Adverb तुम/Pronoun अच्छी/Adjective और/Conjunction सेफ/Noun ड्राइवर/Noun बन/Verb सकती/Verb हो/AuxVerb
+ नेहा/Noun अब/Adjective बहुतसी/Adjective उन/Noun चीज़ों/Verb के/Preposition लिए/Noun भी/Adverb तैयार/Verb है/AuxVerb जिसे/Conjunction पापा/Noun जानते/Verb समझते/Verb हुए/Noun भी/Adverb चर्चा/Noun से/Preposition बचते/Noun आए/Verb हैं/AuxVerb
+ नेहा/Noun का/Preposition महसूस/Verb होता/Verb है/AuxVerb कि/Conjunction ममी/Noun पापा/Noun इस/Noun बारे/Verb में/Verb ही/AuxVerb स्पष्ट/Verb नहीं/Noun है/AuxVerb कि/Conjunction उनकी/Pronoun बेटी/Noun को/Preposition लड़का/Noun अपनी/Pronoun मर्ज़ी/Noun से/Preposition अपने/Adverb आप/Pronoun खोजना/Adjective चाहिए/Verb
+ वे/Pronoun इसके/Noun लिए/Noun 'इंतज़ाम/Noun करेंगे/Verb
+ ममी/Noun की/Preposition बड़ी/Adjective बहन/Noun की/Preposition बेटी/Noun की/Preposition शादी/Noun जोधपुर/Noun रहने/Verb वाले/Adjective एक/Adjective लड़के/Noun से/Preposition तय/Verb हुई/Noun थी/AuxVerb
+ यहाँ/Preposition आने/Noun के/Preposition बाद/Adjective उसका/Pronoun अजीबसा/Noun ही/AuxVerb सलूक/Verb रहा/Verb और/Conjunction अंतत:/Adjective उसका/Pronoun शादी/Noun का/Preposition हश्र/Noun तलाक/Noun में/Preposition हुआ/Verb था/AuxVerb
+ तभी/Adverb से/Preposition ममी/Noun नेहा/Noun की/Preposition किसी/Noun हिन्दुतान/Noun के/Preposition लड़के/Noun से/Preposition शादी/Noun तय/Verb करने/Noun को/Preposition खिलाफ़/Verb थीं/InVerb
+ पर/Conjunction अब/Adjective नेहा/Noun के/Preposition बड़ी/Verb हो/AuxVerb जाने/Noun के/Preposition बाद/Adjective कभी/Adverb तो/Conjunction वह/Pronoun कह/Verb देतीं/Verb कि/Conjunction फलाँ/Noun आँटी/Noun तुमको/Pronoun एक/Adjective लड़के/Noun से/Preposition मिलवाना/Noun चाहती/Verb हैं/AuxVerb
+ यह/Preposition भी/Adverb साथ/Noun ही/AuxVerb जोड़/Noun देतीं/Verb कि/Conjunction तुम/Pronoun मिलना/Noun चाहती/Verb हो/AuxVerb तो/Conjunction मिलो/Verb वर्ना/Noun ऐसी/Adjective कोई/Adjective ज़बरदस्ती/Noun नहीं/Noun
+ ममी/Noun कहतीं/Conjunction आई/Noun डोंट/Verb वाँट/Noun यू/Adjective तू/Pronoun 
+ कभी/Adverb वह/Pronoun कह/Verb डालतीं/Noun
+ यों/Noun ठीक/Verb है/AuxVerb पढ़ती/Noun रहो/Verb और/Conjunction नौकरी/Noun भी/Adverb करो/Noun पर/Conjunction देखा/Verb जाए/Noun तो/Conjunction बाइस/Noun तेईस/Noun साल/Noun में/Preposition शादी/Noun तो/Conjunction हो/AuxVerb ही/AuxVerb जानी/Noun चाहिए/Verb लड़कियों/Noun की/Preposition
+ मैं/Pronoun तो/Conjunction इक्कीस/Noun भी/Adverb पूरे/Adverb नही/Adverb कर/AuxVerb पाई/Noun थी/AuxVerb जब/Adverb शादी/Noun हुई/Noun
+ नेहा/Noun को/Preposition लगा/Verb कि/Conjunction ममी/Noun के/Preposition रवैये/Noun में/Preposition बदलाव/Preposition इस/Verb पर/Conjunction भी/Adverb मुनस्सर/Adjective करता/Noun था/AuxVerb कि/Conjunction उन/Noun दिनों/Noun वे/Adjective किस/Noun से/Preposition मिल/Noun रहीं/Verb थी/AuxVerb
+ अपनी/Pronoun अमरीकी/Noun सहेलियों/Noun से/Preposition कुछ/Adjective पुराने/Adjective ख़यालों/Noun की/Preposition हिन्दुस्तानी/Noun सहेलियों/Noun से/Preposition या/Conjunction किसी/Adjective रिश्तेदार/Noun से/Preposition
+ ममी/Noun उनके/Noun सवालों/Noun और/Conjunction टिप्पणियों/Noun से/Preposition बहुत/Adjective जल्दी/Adjective बहक/Noun जाती/Adjective
+ इसलिए/Conjunction शायद/Adjective ममी/Noun नेहा/Noun से/Preposition कभी/Adverb यह/Preposition भी/Adverb कह/Verb देतीं/Verb
+ देख/Verb हमारा/Pronoun तो/Conjunction जमाना/Verb और/Conjunction था/AuxVerb यहाँ/Preposition कोई/Adjective शादी/Noun की/Preposition जल्दी/Verb नहीं/Noun मचाता/Verb
+ जब/Adverb कोई/Noun ढंग/Adjective का/Preposition टकरा/Noun जाए/Noun तो/Conjunction कर/AuxVerb लो/Verb वर्ना/Noun अपने/Adverb काम/Preposition में/Preposition लगे/Verb रहोकोई/Adjective बंदिश/Noun तो/Conjunction नहीं/Noun
+ हिन्दुस्तान/Noun में/Verb तो/Conjunction अब/Adverb तक/Preposition सारे/Adverb रिश्तेदार/Noun पीछे/Noun पड़/Verb गए/Verb होते/AuxVerb कि/Conjunction भई/Noun लड़की/Noun को/Preposition क्यों/Noun अभी/Adverb तक/Preposition कुँवारा/Noun बैठा/Verb रखा/Verb है/AuxVerb
+ और/Conjunction साथ/Noun ही/AuxVerb जोड़/Noun देतीं/Verb
+ वैसे/Adverb तो/Conjunction शादी/Noun हो/AuxVerb जानी/Noun चाहिए/Verb लड़कियों/Noun की/Preposition ठीक/Adjective उम्र/Noun में/Preposition वर्ना/Noun न/Noun तो/Conjunction अच्छे/Noun लड़के/Noun हीं/Adverb बचे/Noun रहते/Verb हैं/AuxVerb
+ लड़कियों/Noun का/Preposition स्वभाव/Preposition भी/Adverb इतना/Noun पक्का/Verb हो/AuxVerb जाता/Adjective है/AuxVerb कि/Conjunction मन/Preposition माफिक/Adjective लड़का/Noun मिलना/Verb ही/AuxVerb मुश्किल/Verb हो/AuxVerb जाता/Adjective है/AuxVerb
+ नेहा/Noun को/Preposition मालूम/Verb था/AuxVerb कि/Conjunction ममी/Noun का/Preposition इशारा/Adjective उसकी/Pronoun सहेली/Noun अंशुल/Verb की/Preposition ओर/Verb था/AuxVerb
+ अंशुल/Adjective उनत्तीस/Noun बरस/Noun की/Preposition हो/AuxVerb चली/Verb थी/AuxVerb
+ तीन/Adjective साल/Noun पहले/Adjective एक/Adjective भारतीय/Noun मूल/Verb के/Preposition लड़के/Noun के/Preposition साथ/Noun उसका/Pronoun संबंध/Noun बढ़ा/Verb था/AuxVerb और/Conjunction दोनों/Preposition एक/Adjective साथ/Noun रहने/Verb लगे/Verb थे/AuxVerb
+ फिर/Conjunction साल/Noun भर/Noun बाद/Adjective उस/Pronoun लड़के/Noun ने/Preposition कहा/Verb था/AuxVerb कि/Conjunction उसका/Pronoun अंशुल/Preposition से/Preposition शादी/Noun का/Preposition विचार/Preposition नहीं/Noun
+ वे/Verb चाहें/Conjunction तो/Conjunction यों/Noun ही/AuxVerb साथ/Noun रहते/Verb रहें/Noun
+ कभी/Adverb भविष्य/Adjective में/Preposition भी/Adverb उसका/Pronoun शादी/Noun का/Preposition इरादा/Noun होगा/AuxVerb इसका/Preposition भी/Adverb कोई/Adjective आश्वासन/Noun नहीं/Noun था/AuxVerb
+ अंशुल/Verb ने/Preposition रिश्ता/Noun तोड़/Verb लिया/AuxVerb था/AuxVerb
+ उसके/Pronoun बाद/Adjective जो/Noun भी/Adverb रिश्ता/Noun बने/Verb उसका/Pronoun हश्र/Noun कुछ/Noun ऐसा/Adverb ही/AuxVerb हो/AuxVerb रहा/Verb था/AuxVerb
+ एक/Adjective लैटिन/Noun अमरीकी/Noun लड़का/Noun था/AuxVerb जिसके/Noun साथ/Noun वह/Pronoun शादी/Noun नहीं/Noun करना/Verb चाहती/Verb थी/AuxVerb
+ एक/Adjective काला/Adjective लड़का/Noun था/AuxVerb जिससे/Preposition शादी/Noun करने/Noun से/Preposition उसने/Pronoun माँ/Noun बाप/Noun ने/Preposition सख़्त/Adjective विरोध/Noun किया/AuxVerb था/AuxVerb
+ यों/Noun माँ/Noun बाप/Noun की/Preposition मर्ज़ी/Noun के/Preposition ख़िलाफ़/Verb जाकर/Noun चाहे/Conjunction वह/Pronoun शादी/Noun कर/AuxVerb ही/AuxVerb लेती/Noun पर/Conjunction वह/Pronoun रिश्ता/Noun खुद/Verb ही/AuxVerb टूट/Verb गया/Verb
+ अब/Adverb वह/Pronoun अचानक/Adjective उनतीस/Noun बरस/Noun की/Preposition उम्र/Noun में/Preposition सन्यासिन/Noun बनने/Verb की/Preposition ठान/Verb कर/AuxVerb बैठ/Verb गई/Verb थी/AuxVerb
+ न/Verb तो/Conjunction अब/Adverb वह/Pronoun वैसे/Adverb झमकझमक/Adjective गहने/Noun पहनती/Verb थी/AuxVerb न/Verb ही/AuxVerb चेहरे/Noun पर/Conjunction गहरा/Adjective मेकअप/Noun करती/Verb
+ सफ़ेद/Adjective साड़ी/Noun पहन/Verb घंटो/Noun ध्यान/Noun में/Preposition लगी/Verb रहती/Preposition
+ उसने/Pronoun अपने/Adverb अपार्टमेंट/Noun में/Verb ही/AuxVerb एक/Adjective कोने/Noun में/Verb मूर्तियाँ/Noun रख/Verb कर/AuxVerb मंदिर/Noun बना/Noun लिया/AuxVerb था/AuxVerb
+ आए/Verb दिन/Noun दक्षिण/Noun एशियाई/Noun सांस्कृतिक/Adjective कार्यक्रमों/Noun को/Preposition संगठित/Adjective करती/Verb और/Conjunction नारीवाद/Noun की/Preposition हिमायत/Noun करती/Verb
+ कितनी/Adjective कड़वाहट/Noun भर/Noun गई/Verb थी/AuxVerb अंशुल/Preposition में/Preposition मर्दजात/Verb के/Preposition प्रति/Noun
+ एक/Adjective उग्रनारीवादी/Noun बन/Verb कर/AuxVerb उसने/Pronoun यही/Noun कड़वाहट/Noun सारे/Adverb समाज/Noun में/Preposition फैलाने/Noun का/Preposition बीड़ा/Noun उठा/Noun लिया/AuxVerb था/AuxVerb
+ नेहा/Noun उस/Pronoun कड़वाहट/Noun से/Preposition बचना/Noun चाहती/Verb हैं/AuxVerb
+ ममी/Noun को/Preposition डर/Adjective लगता/Noun कि/Conjunction ठीक/Adjective उम्र/Noun में/Preposition नेहा/Noun किसी/Noun से/Preposition बंधी/Verb नहीं/Noun तो/Conjunction पता/Noun नहीं/Noun किस/Noun दिशा/Noun में/Preposition मुड़/Verb जाए/Noun
+ अंशुल/Adjective का/Preposition ज़िक्र/Verb कर/AuxVerb वह/Pronoun कह/Verb देती/Preposition यह/Preposition भी/Adverb कोई/Adjective उम्र/Noun है/AuxVerb सन्यास/Noun लेने/Noun की/Preposition
+ उनत्तीस/Noun बरस/Noun में/Preposition तो/Conjunction लड़की/Noun सर/Noun से/Preposition पाँव/Noun तक/Noun गृहस्थी/Verb में/Preposition रमी/Noun होती/AuxVerb है/AuxVerb
+ तुम्हारी/Adjective पीढ़ी/Noun की/Preposition तो/Conjunction बातें/Verb ही/AuxVerb निराली/Verb है/AuxVerb
+ कभी/Adverb तो/Conjunction इतना/Adjective राग/Noun रंग/Verb और/Conjunction कभी/Adverb धूनी/Preposition रमा/Adjective लो/Verb
+ नेहा/Noun हँस/Noun देती/Adjective ममी/Noun ये/Pronoun सब/Adjective फ़ैड/Noun हैं/AuxVerb
+ कल/Noun को/Preposition अंशुल/Preposition को/Preposition कोई/Noun मन/Preposition पसंद/Adjective लड़का/Noun मिल/Noun गया/Verb तो/Conjunction सन्यास/Noun वन्यास/Preposition सब/Adjective भूल/Preposition जाएगी/Verb
+ उसे/Pronoun रोज़/Noun ही/AuxVerb जीने/Adjective का/Preposition कोई/Noun नया/Adjective मक़सद/Noun खोजना/Noun होता/Verb है/AuxVerb
+ वह/Verb तो/Conjunction ठीक/Verb है/AuxVerb पर/Conjunction कुछ/Adjective टिकाव/Preposition भी/Adverb होना/Adjective चाहिए/Verb ज़िन्दगी/Noun में/Preposition
+ अब/Adverb इस/Adjective उम्र/Noun में/Verb तो/Conjunction किसी/Verb के/Preposition साथ/Adverb बंध/Noun ही/AuxVerb जाना/Adjective चाहिए/Verb न'/Conjunction
+ नेहा/Noun को/Preposition खुद/Noun भी/Adverb तो/Conjunction नहीं/Noun पता/Noun कि/Conjunction सही/Adjective दिशा/Noun क्या/Verb हैं/AuxVerb
+ अपने/Adverb माँ/Noun बाप/Noun के/Preposition तरीके/Noun की/Preposition तयशुदा/Adjective शादी/Noun उसकी/Pronoun कल्पना/Verb के/Preposition बाहर/Verb है/AuxVerb
+ बाकी/Adjective किसी/Noun से/Preposition रिश्ता/Noun जोड़ने/Verb में/Preposition वह/Pronoun भी/Adverb घबराती/Verb है/AuxVerb
+ जो/Preposition भी/Adverb रिश्ता/Noun जोड़ता/Verb है/AuxVerb उसे/Pronoun अंत/Preposition तक/Preposition पूरे/Adverb चरम/Preposition तक/Preposition पहुँचाना/Noun होता/Verb है/AuxVerb
+ तभी/Adverb कोई/Noun गंभीरता/Preposition से/Preposition विवाह/Noun की/Preposition बात/Noun सोचता/Verb है/AuxVerb
+ और/Conjunction इसी/Adverb चरम/Preposition तक/Noun आज़मा/Verb लेने/Noun के/Preposition दौरान/Adjective पता/Verb नहीं/Noun कब/Preposition क्या/Adjective चटख/Noun जाएगा/Verb कि/Conjunction पूरा/Adjective रिश्ता/Noun ही/AuxVerb चकनाचूर/Verb हो/AuxVerb जाता/Adjective हैउसकी/Adjective सहेलियों/Noun के/Preposition साथ/Adverb यही/Noun कुछ/Verb तो/Conjunction हो/AuxVerb रहा/Verb है/AuxVerb
+ इसी/Adverb डर/Verb से/Preposition वह/Pronoun किसी/Adjective लड़के/Noun के/Preposition साथ/Noun गहरी/Adjective आत्मीयता/Noun का/Preposition रिश्ता/Noun नहीं/Noun जोड़/Noun पाई/Noun
+ मन/Noun के/Preposition रिश्ते/Noun से/Preposition शरीर/Verb के/Preposition रिश्ते/Noun को/Preposition परे/Preposition रखना/Noun नामुमकिन/Verb हो/AuxVerb जाता/Adjective है/AuxVerb
+ बल्कि/Preposition यह/Preposition भी/Adverb एक/Adjective शर्त/Noun हो/AuxVerb जाती/Adjective है/AuxVerb कि/Conjunction मन/Preposition को/Preposition समर्पित/Verb कर/AuxVerb दिया/Verb तो/Conjunction शरीर/Noun क्या/Adjective चीज़/Noun है/AuxVerb
+ उसे/Pronoun उलझने/Noun में/Preposition हिचक/Noun क्यों/Noun
+ इसी/Adverb उलझन/Noun में/Preposition उसका/Pronoun शरीर/Noun अभी/Adverb तक/Preposition कुँवारा/Noun है/AuxVerb
+ अतृप्त/Adjective हैपर/Noun वह/Pronoun कब/Preposition तक/Preposition खुद/Noun को/Preposition सँभाल/Verb कर/AuxVerb रखती/Preposition रहेगी/Preposition
+ ममी/Noun हमेशा/Adjective उसे/Pronoun खुद/Noun को/Preposition बचाए/Adjective रखने/Noun के/Preposition लिए/Noun शादी/Noun तक/Preposition कुँवारापन/Noun बनाए/Verb रखने/Noun का/Preposition पाठ/Noun बचपन/Noun से/Preposition पढ़ाती/Verb रही/AuxVerb हैं/AuxVerb
+ क्या/Preposition जब/Adverb तक/Preposition सही/Adjective लड़का/Noun नहीं/Noun मिलता/Adjective वह/Pronoun यों/Noun ही/AuxVerb रहे/Verb
+ केवल/Adverb शरीर/Verb की/Preposition तृप्ति/Noun के/Preposition लिए/Noun शादी/Noun के/Preposition बंधन/Noun में/Preposition पड़/Verb जाना/Verb तो/Conjunction अक्ल/Adjective की/Preposition बात/Noun नहीं/Noun
+ ऐसा/Adjective नहीं/Noun होने/Verb देगी/Verb वह /Adjective
+ नेहा/Noun समझ/Verb नहीं/Noun पाती/Verb कि/Conjunction ममी/Noun सचमुच/Adverb मे/Preposition क्या/Noun चाहती/Verb है/AuxVerb
+ कभी/Adverb तो/Conjunction इतने/Noun खुले/Adverb दिमाग/Noun वाली/Noun अमरीकी/Noun महिलाओं/Noun जैसी/Noun बन/Verb जाती/Adjective हैं/AuxVerb तो/Conjunction कभी/Adverb एकदम/Adjective दकियानूसी/Noun
+ उस/Pronoun दिन/Noun उसने/Pronoun सुना/Verb ममी/Noun की/Preposition एक/Adjective हिन्दुस्तानी/Noun सहेली/Noun कह/Verb रही/AuxVerb थीं/InVerb
+ आजकल/Verb तो/Conjunction ज़माना/Verb बदल/Noun गया/Verb है/AuxVerb क्या/Adjective पता/Noun कल/Noun को/Preposition लड़की/Noun आकर/Noun यह/Noun कहे/Verb कि/Conjunction मैं/Pronoun फलाँ/Noun लड़के/Noun के/Preposition साथ/Noun रहना/Noun चाहती/Verb हूँ/AuxVerb शादी/Noun किए/Noun बग़ैरहमारे/Adjective रोकने/Adjective से/Preposition कोई/Noun सुनेंगे/Adjective भला/Noun
+ मुझे/Pronoun तो/Conjunction ऐसे/Preposition ख़याल/Noun डराते/Verb रहते/Verb हैं/AuxVerb
+ अगर/Conjunction कुछ/Adjective ऐसा/Adjective हुआ/Verb तो/Conjunction सारे/Adverb समाज/Noun में/Preposition बदनामी/Verb हो/AuxVerb जाएगी/Verb
+ शायद/Adjective उन्हीं/Verb की/Preposition बात/Noun का/Preposition असर/Noun होगा/AuxVerb कि/Conjunction अगले/Noun दिन/Noun ममी/Noun नेहा/Noun से/Preposition पूछ/Noun रही/AuxVerb थीं/InVerb
+ तेरे/Noun दिमाग/Noun में/Preposition कोई/Adjective लड़का/Noun है/AuxVerb तो/Conjunction हमे/Noun बता/Verb दे/AuxVerb
+ अगर/Conjunction तुम/Pronoun किसी/Verb के/Preposition साथ/Adverb वाथ/Adjective रहने/Verb की/Preposition सोच/Verb रही/AuxVerb हो/AuxVerb तो/Conjunction हम/Pronoun तुम्हारी/Adjective मँगनी/Noun किए/Noun देते/Verb हैंयों/Noun ही/AuxVerb नहीं/Noun रहने/Verb दूँगी/Preposition मैं/Pronoun
+ नेहा/Noun खूब/Noun सोच/Verb रही/AuxVerb है/AuxVerb आजकल/Noun सोचती/Verb ही/AuxVerb रहती/Verb है/AuxVerb कैसे/Adverb सही/Preposition रास्ते/Adverb पर/Conjunction उतारे/Noun अपनी/Pronoun ज़िन्दगी/Noun
+ नेहा/Noun के/Preposition पास/Preposition बहुत/Adjective कुछ/Verb है/AuxVerb बताने/Adjective को/Preposition ममी/Noun की/Preposition ऐसी/Adjective बातें/Verb उसे/Pronoun आश्वासन/Verb नहीं/Noun देतीं/Verb और/Conjunction डरा/Adjective देती/Verb हैं/AuxVerb
+ नेहा/Noun अभी/Adverb किसी/Noun से/Preposition मँगनी/Noun नहीं/Noun करना/Verb चाहती/Verb वह/Pronoun सचमुच/Adverb सिर्फ़/Adverb साथ/Noun रहकर/Preposition देखना/Noun चाहती/Verb है/AuxVerb
+ अभी/Adverb उसका/Pronoun शादी/Noun में/Preposition बँधने/Verb का/Preposition इरादा/Noun नहीं/Noun
+ फिर/Conjunction भी/Adverb किसी/Verb के/Preposition प्रेम/Verb और/Conjunction साथ/Noun से/Preposition खुद/Noun को/Preposition वंचित/Verb नहीं/Noun रखना/Preposition चाहती/Preposition
+ ममी/Noun ने/Preposition भी/Adverb तो/Conjunction इक्कीस/Noun की/Preposition उम्र/Noun में/Preposition शादी/Noun कर/AuxVerb ली/Verb थी/AuxVerb
+ वह/Verb तो/Conjunction तेईस/Noun पार/Noun कर/AuxVerb लगभग/Adjective चौबीस/Noun की/Preposition हो/AuxVerb चुकी/Verb है/AuxVerb
+ क्या/Preposition वह/Pronoun ममी/Noun को/Preposition बता/Verb सकती/Verb है/AuxVerb कि/Conjunction वह/Pronoun लड़का/Noun साथ/Noun ही/AuxVerb पढ़ता/Adjective हुआ/Verb एक/Adjective अमरीकी/Noun है/AuxVerb
+ वह/Pronoun इस/Adjective तरह/Noun से/Preposition महात्वाकांक्षी/Adjective नहीं/Noun जैसा/Conjunction ममी/Noun पापा/Noun अपने/Adverb जवाई/Verb की/Preposition कल्पना/Noun करते/Verb हैं/AuxVerb
+ वह/Pronoun डॉक्टर/Noun इंजिनियर/Noun या/Conjunction वकिल/Noun कुछ/Adjective भी/Adverb नहीं/Noun बनना/Verb चाहता/Verb
+ वह/Pronoun स्कूल/Noun टीचर/Noun है/AuxVerb और/Conjunction इस/Adjective देश/Noun के/Preposition बच्चों/Noun को/Preposition स्कूली/Noun शिक्षा/Noun की/Preposition अच्छी/Adjective नींव/Verb देने/Verb में/Preposition विश्वास/Preposition रखता/Verb है/AuxVerb
+ उसे/Pronoun बच्चों/Noun के/Preposition साथ/Noun काम/Noun करना/Verb पसंद/Verb है/AuxVerb और/Conjunction वही/Verb कर/AuxVerb रहा/Verb है/AuxVerb करना/Verb चाहता/Verb हैकै/Noun से/Preposition बताएगी/Verb उनको/Pronoun
+ वे/Verb तो/Conjunction कैसा/Noun मुँह/Noun बनाएँगेममी/Preposition सोचेगी/Adjective कैसा/Noun लद्धड़/Adjective लड़का/Noun चुना/Verb है/AuxVerb स्कूली/Noun टीचर/Noun
+ वह/Pronoun ममी/Noun के/Preposition चेहरे/Noun पर/Conjunction आए/Verb उतार/Noun चढ़ाव/Verb की/Preposition बहुत/Adjective सही/Noun कल्पना/Verb कर/AuxVerb सकती/Verb है/AuxVerb
+ उसके/Pronoun बाद/Adjective ममी/Noun बहुत/Adjective देर/Adverb तक/Preposition उससे/Adverb बात/Verb नहीं/Noun करेंगी/Verb
+ सोंच/Verb में/Preposition पड़/Verb जाएँगी/Verb
+ शायद/Adjective रोएँ/Noun धोयें/Noun भी/Adverb कि/Conjunction उनके/Noun उम्र/Noun भर/Noun के/Preposition ख़याली/Noun पुलावों/Noun पर/Conjunction पानी/Noun पड़/Verb गया/Verb
+ कहाँ/Adjective उनकी/Noun बेटी/Noun तो/Conjunction आर्किटेक्ट/Verb है/AuxVerb और/Conjunction जँवाई/Adjective स्कूली/Noun टीचर/Noun
+ यों/Noun है/AuxVerb तो/Conjunction नेहा/Noun के/Preposition ही/AuxVerb स्कूल/Noun ऑफ/Verb आर्किटेक्ट/Adjective का/Preposition स्नातक/Noun पर/Conjunction सर/Noun पर/Conjunction हाइस्कूल/Verb के/Preposition बच्चों/Noun का/Preposition दिमाग/Noun दुरूस्त/Noun करने/Noun का/Preposition फितूर/Noun ममी/Noun शायद/Adjective किसी/Noun को/Preposition उसके/Pronoun धंधे/Verb के/Preposition बारे/Verb में/Preposition बताना/Noun भी/Adverb न/Noun चाहें/Conjunction
+ उसने/Pronoun ममी/Noun की/Preposition प्रतिक्रियाओं/Noun को/Preposition बहुत/Adjective पहले/Adjective से/Preposition जान/Noun लिया/AuxVerb है/AuxVerb
+ उसकी/Pronoun एक/Adjective सहेली/Noun के/Preposition बारे/Verb में/Preposition वे/Noun पहले/Verb ही/AuxVerb कह/Verb चुकी/Verb है/AuxVerb
+ नियति/Noun खुद/Verb ही/AuxVerb इतनी/Noun ब्राइट/Verb और/Conjunction खुबसूरत/Adjective लड़की/Noun है/AuxVerb
+ यह/Preposition एक/Adjective स्कूली/Noun टीचर/Noun के/Preposition शिकंजे/Adjective में/Preposition कैसे/Adverb फँस/Verb गई/Verb
+ नेहा/Noun को/Preposition ममी/Noun के/Preposition कहने/Noun के/Preposition अंदाज़/Preposition से/Preposition बहुत/Adjective बुरा/Noun लगा/Verb था/AuxVerb
+ उसने/Pronoun नियति/Noun की/Preposition पैरवी/Noun करते/Verb हुए/Noun ममी/Noun को/Preposition समझाने/Verb की/Preposition कोशिश/Noun भी/Adverb की/Preposition थी/AuxVerb
+ ममी/Noun वह/Verb तो/Conjunction बड़ा/Preposition आइडियलिस्टिक/Adjective लड़का/Noun है/AuxVerb
+ उसका/Adjective ढेर/Noun सारे/Adverb पैसे/Preposition कमाने/Noun में/Preposition विश्वास/Verb नहीं/Noun है/AuxVerb
+ वह/Pronoun बच्चों/Noun की/Preposition ज़िन्दगी/Noun बनाना/Preposition चाहता/Verb है/AuxVerb
+ ममी/Noun अगर/Conjunction स्कूली/Noun टीचिंग/Preposition में/Preposition अच्छे/Noun और/Conjunction ब्राइट/Adjective लोग/Verb नहीं/Noun जाएँगे/Verb तो/Conjunction इस/Adjective देश/Noun के/Preposition नागरिक/Preposition कैसे/Adverb अच्छे/Noun बनेंगे/Verb
+ सब/Adjective कोई/Noun युनिवर्सिटी/Noun में/Verb ही/AuxVerb पढ़ने/Noun लगें/Verb और/Conjunction स्कूलों/Noun में/Verb न/Noun पढ़ाना/Verb चाहें/Conjunction तो/Conjunction युनिवर्सिटियों/Noun में/Verb पढ़ने/Noun कौन/Preposition आएगा/Preposition
+ ममी/Noun ने/Preposition उसे/Pronoun चुप/Adjective करा/Noun दिया/Verb था/AuxVerb
+ फिक्र/Noun मत/Noun कर/AuxVerb बहुत/Verb हैं/AuxVerb स्कूलों/Noun में/Preposition पढ़नेवाले/Preposition
+ मैं/Pronoun तो/Conjunction सिर्फ़/Adverb यह/Noun कहना/Verb चाहती/Verb थी/AuxVerb कि/Conjunction नियति/Noun उससे/Adverb कही/Conjunction बेहतर/Verb के/Preposition योग्य/Verb है/AuxVerb
+ बाकी/Adjective सयाना/Adjective कौवा/Noun गू/Adjective पर/Conjunction ही/AuxVerb बैठे/Verb तो/Conjunction कोई/Noun क्या/Verb कर/AuxVerb सकता/Verb है/AuxVerb
+ नेहा/Verb फिर/Conjunction भी/Adverb पैरवी/Noun करती/Verb ही/AuxVerb रही/AuxVerb थी/AuxVerb
+ ममी/Noun अभी/Adverb अगर/Conjunction वह/Pronoun स्कूली/Noun टीचर/Noun है/AuxVerb तो/Conjunction इसका/Preposition यह/Preposition मतलब/Verb नहीं/Noun कि/Conjunction सारी/Adjective उम्र/Noun यही/Noun बना/Noun रहेगा/Preposition
+ यहाँ/Preposition लोग/Noun प्रोफेशन/Noun बदलते/Verb रहते/Verb हैं/AuxVerb
+ कल/Noun को/Preposition युनिवर्सिटी/Adjective में/Preposition पीएच/Noun डी/Noun में/Preposition दाखिला/Adjective लेकर/Verb बाद/Adjective में/Preposition युनिवर्सिटी/Adjective का/Preposition प्रोफेसर/Noun भी/Adverb बन/Verb सकता/Verb है/AuxVerb
+ या/Conjunction जो/Preposition कुछ/Adjective भी/Adverb करना/Verb चाहे/Conjunction
+ यों/Noun स्कूली/Noun टीचर/Noun की/Preposition तनख्वाह/Noun भी/Adverb कालेज/Noun प्रोफेसर/Noun से/Preposition कम/Verb नहीं/Noun होती/AuxVerb बाकी/Adjective यहाँ/Preposition हिन्दुस्तान/Noun वाली/Noun बात/Noun नहीं/Noun है/AuxVerb कि/Conjunction एक/Adjective बार/Noun जो/Noun बन/Verb गए/Verb वही/Adjective रास्ता/Noun सारी/Adjective उम्र/Noun के/Preposition लिए/Verb हो/AuxVerb गया/Verb
+ ठीक/Verb है/AuxVerb ज़्यादा/Adjective बड़/Noun बड़/Noun मत/Noun कर/AuxVerb
+ हर/Adjective वक्त/Noun मुझी/Preposition को/Preposition शिक्षा/Noun देती/Noun रहती/Verb है/AuxVerb
+ ममी/Noun को/Preposition इस/Adjective बात/Noun का/Preposition भी/Adverb गुस्सा/Noun आता/Verb है/AuxVerb कि/Conjunction बजाय/Adverb वे/Adjective अपनी/Pronoun बेटी/Noun को/Preposition शिक्षा/Noun दें/Noun उल्टे/Adverb वहीं/Noun उनको/Pronoun भाषण/Noun देती/Noun रहती/Verb है/AuxVerb जैसे/Preposition कि/Conjunction वह/Pronoun अनुभवी/Adjective दादी/Noun अम्मा/Noun हो/AuxVerb और/Conjunction ममी/Noun मात्र/Preposition एक/Adjective बच्ची/Noun
+ बच्ची/Noun को/Preposition आज़ादी/Noun देने/Verb का/Preposition यह/Adjective फल/Noun मिल/Verb रहा/Verb है/AuxVerb उनको/Pronoun
+ पर/Conjunction पापा/Noun से/Preposition उसकी/Pronoun इस/Adjective तरह/Noun पेश/Noun आने/Noun की/Preposition हिम्मत/Verb नहीं/Noun होतीपापा/Adjective से/Preposition डरती/Verb है/AuxVerb और/Conjunction उनकी/Noun बात/Noun ध्यान/Noun से/Preposition समझती/Verb भी/Adverb हैमाँ/Preposition को/Preposition तो/Conjunction कुछ/Noun समझती/Verb ही/AuxVerb नहीं/Noun
+ पापा/Noun जब/Adverb उसे/Pronoun सड़क/Verb की/Preposition लय/Noun समझा/Verb रहे/Verb थे/AuxVerb तो/Conjunction नेहा/Noun को/Preposition लगा/Verb जैसे/Conjunction पापा/Noun बहुत/Adjective कुछ/Noun समझते/Verb हैं/AuxVerb
+ अब/Adverb वे/Adjective उसकी/Pronoun तोतली/Verb बोली/Noun सुनने/Noun की/Preposition फ़रमाइश/Preposition भी/Adverb नहीं/Noun करते/Verb
+ ताकि/Adjective उस/Pronoun बात/Noun का/Preposition अपने/Adverb ऊपर/Preposition हँसते/Adverb हुए/Noun ज़िक्र/Verb करते/Verb हैं/AuxVerb कि/Conjunction कैसे/Adverb उनको/Pronoun यह/Adjective बोली/Noun पहले/Adjective मीठी/Noun लगा/Verb करती/Verb थी/AuxVerb
+ पर/Conjunction अब/Adjective नेहा/Noun बड़ी/Verb हो/AuxVerb गई/Verb है/AuxVerb और/Conjunction उसे/Pronoun बड़ों/Noun की/Preposition तरह/Noun ही/AuxVerb बोलना/Verb चाहिए/Verb
+ सोचते/Verb सोचते/Verb अचानक/Adjective उसकी/Pronoun हिम्मत/Noun पड़/Verb गई/Verb थी/AuxVerb
+ नेहा/Noun को/Preposition कहते/Verb हुए/Noun लगा/Verb कि/Conjunction वह/Pronoun झूठ/Noun नहीं/Noun बोल/Verb रही/AuxVerb थी/AuxVerb
+ पीटर/Adjective और/Conjunction उसने/Pronoun इस/Noun बारे/Verb में/Preposition काफी/Noun लंबी/Verb बातचीत/Noun कर/AuxVerb रखी/Verb थी/AuxVerb
+ चाहे/Conjunction आज/Adverb वह/Pronoun सिर्फ़/Adverb इसी/Adverb बातचीत/Noun के/Preposition सिलसिले/Adverb में/Verb नहीं/Noun जा/Verb रही/AuxVerb थी/AuxVerb और/Conjunction भी/Adverb बहत/Noun सी/Noun गप्पे/PhrasalVerb मारनी/Preposition थीं/InVerb
+ कहीं/Conjunction उसे/Pronoun भी/Adverb अंदाज़/Verb था/AuxVerb कि/Conjunction अपने/Adverb अपार्टमेंट/Noun में/Verb के/Preposition सूनेपन/Noun में/Verb छू/Verb भी/Adverb सकता/Verb है/AuxVerb और/Conjunction छूने/Adjective से/Preposition आगे/Noun भी/Adverb
+ नेहा/Noun सिर/Noun से/Preposition पाँव/Noun तक/Preposition सिहर/Noun गई/Verb पर/Conjunction इस/Adjective सिहरन/Noun में/Preposition डर/Adjective से/Preposition ज़्यादा/Adjective चुनौती/Noun थी/AuxVerb और/Conjunction उसे/Pronoun महसूस/Verb हो/AuxVerb रहा/Verb था/AuxVerb कि/Conjunction वह/Pronoun हर/Adjective तरह/Noun की/Preposition चुनौती/Noun के/Preposition लिए/Noun आज/Adverb तैयार/Verb थी/AuxVerb
+ साथ/Noun ही/AuxVerb वह/Pronoun यह/Noun भी/Adverb जानती/Verb थी/AuxVerb कि/Conjunction पूरी/Noun तैयारी/Noun के/Preposition बावजूद/Noun वह/Pronoun पीटर/Adjective के/Preposition साथ/Noun सिर्फ़/Adverb फिल्म/Verb का/Preposition चर्चा/Noun करके/Noun भी/Adverb आ/Adjective सकती/Noun थी /Preposition
+ नेहा/Noun को/Preposition भी/Adverb समझ/Verb नहीं/Noun आता/Verb था/AuxVerb कि/Conjunction क्या/Noun अच्छा/Verb है/AuxVerb क्या/Noun ग़लत/Noun
+ वे/Adjective लोग/Noun हाईवे/Noun से/Preposition उतर/Noun कर/AuxVerb पहले/Adjective एवेन्यू/Noun पर/Conjunction आ/Adjective गए/Verb थे/AuxVerb
+ सामने/Adjective पीली/Noun बत्ती/Noun थीपीछे/Adjective गाडियाँ/Noun आ/Adjective रही/AuxVerb थीं/InVerb
+ पापा/Noun बोले/Verb चलती/Noun रहो/Verb और/Conjunction समझाने/Verb लगे/Verb उसे/Pronoun
+ पीली/Noun बत्ती/Noun पर/Conjunction गाड़ी/Noun रोकनी/Verb होती/AuxVerb है/AuxVerb पर/Conjunction अगर/Conjunction तेज़/Adjective गति/Noun से/Preposition चल/Verb रहे/Verb हों/AuxVerb
+ अचानक/Adjective पीली/Noun बत्ती/Noun हो/AuxVerb जाए/Noun तो/Conjunction गाड़ी/Noun की/Preposition गति/Noun तेज़/Adjective कर/AuxVerb के/Preposition निकल/Verb जाना/Adjective चाहिए/Verb वर्ना/Noun पीछे/Preposition से/Preposition उसी/Pronoun तेज़/Adjective गति/Noun से/Preposition आती/Adverb गाड़ी/Noun मार/Noun सकती/Verb है/AuxVerb
+ फिर/Conjunction अचानक/Verb जैसे/Conjunction ध्यान/Noun आ/Adjective गया/Verb हो/AuxVerb बोले/Verb कैसा/Noun फिल्म/Verb प्रोजेक्ट/Noun है'/Noun
+ उस/Pronoun दिन/Noun पापा/Noun ने/Preposition उसे/Pronoun ड्राप/Noun कर/AuxVerb दिया/Verb था/AuxVerb
+ अजीब/Adjective बात/Noun है/AuxVerb कि/Conjunction पापा/Noun उसे/Pronoun समझते/Verb हैं/AuxVerb और/Conjunction उसके/Pronoun दोस्त/Verb जैसे/Conjunction बनते/Verb जा/Verb रहे/Verb हैं/AuxVerb
+ जबकि/Conjunction ज्योंज्यों/Adverb वह/Pronoun बड़ी/Verb हो/AuxVerb रही/AuxVerb है/AuxVerb ममी/Noun का/Preposition नज़रिया/Noun सकुचाया/Adjective जा/Verb रहा/Verb है/AuxVerb
+ एक/Adjective उतावली/Noun और/Conjunction घबराहटसी/Verb रहती/Verb है/AuxVerb उनमें/Preposition नेहा/Noun की/Preposition शादी/Noun के/Preposition मसले/Noun को/Preposition लेकर/Verb
+ नेहा/Noun को/Preposition लगता/Noun है/AuxVerb कि/Conjunction यह/Preposition सब/Adjective उनकी/Noun अमरीका/Preposition में/Preposition बसी/Noun हिन्दुस्तानी/Noun सहेलियों/Noun का/Preposition दबाव/Noun है/AuxVerb
+ वर्ना/Noun ममी/Noun बड़े/Noun ही/AuxVerb खुले/Adverb सोच/Adjective वाली/Noun थीं/InVerb
+ उसने/Pronoun इस/Adjective बात/Noun पर/Conjunction ममी/Noun से/Preposition आमनासामना/Noun भी/Adverb किया/AuxVerb था/AuxVerb
+ चूँकि/Noun अंशुल/Adjective सन्यासिनी/Noun हो/AuxVerb गई/Verb तुम/Pronoun सोचती/Verb हो/AuxVerb मेरे/Pronoun साथ/Noun की/Preposition सारी/Adjective लड़कियाँ/Noun पागल/Adjective हैं/AuxVerb
+ या/Conjunction हो/AuxVerb जाएँगी/Verb
+ मतलब/Verb तो/Conjunction यही/Noun है/AuxVerb न/Noun कि/Conjunction बच्चे/Noun पैदा/Adjective करो/Noun और/Conjunction गृहस्थी/Verb में/Preposition लग/Verb जाओ/Verb
+ पर/Conjunction मैं/Pronoun तो/Conjunction वैसे/Adverb ही/AuxVerb जुटी/Verb हूँ/AuxVerb नौकरी/Noun में/Preposition
+ फिल्म/Verb बनाने/Noun मेंमेरे/Preposition पास/Noun गृहस्थी/Verb चलाने/Verb की/Preposition फुर्सत/Noun अभी/Adverb कहाँ/Verb हैं/AuxVerb
+ जब/Adjective हुई/Noun तो/Conjunction सोच/Adjective लूँगी/Noun औए/Preposition कभी/Adverb न/Noun हुई/Noun तो/Conjunction कभी/Adverb नहीं/Noun सोचूँगी/Noun
+ यही/Noun तो/Conjunction मुश्किल/Adjective हैतुम/Pronoun सोचती/Verb हो/AuxVerb कि/Conjunction बिना/Noun गृहस्थी/Verb के/Preposition सारी/Adjective उम्र/Noun कट/Verb सकती/Verb है/AuxVerb
+ तभी/Adverb तुमने/Pronoun मेरे/Pronoun लाख/Noun कहने/Noun के/Preposition बावजूद/Noun खाना/Verb तक/Preposition बनाना/Verb नहीं/Noun सीखा/Verb
+ ममी/Noun मेरे/Pronoun साथ/Noun के/Preposition ज़ादातर/Adjective लोग/Noun खाना/Verb बाहर/Verb ही/AuxVerb खाते/Noun हैं/AuxVerb
+ किसी/Noun को/Preposition बनाना/Verb नहीं/Noun होता/Verb
+ बनाने/Noun का/Preposition शौक/Verb हो/AuxVerb तो/Conjunction एकाध/Adjective चीज़/Noun सीखी/Verb भी/Adverb जा/Verb सकती/Verb है/AuxVerb
+ पर/Conjunction वह/Pronoun ऐसा/Preposition कोई/Adjective मस्ट/Noun नहीं/Noun हैं/AuxVerb जैसा/Adjective तुम/Pronoun समझती/Verb है/AuxVerb
+ जा/Verb जा/Verb तेरे/Noun से/Preposition बहस/Noun कौन/Noun करे/Verb
+ नेहा/Noun ममी/Noun के/Preposition रूख/Noun से/Preposition बेहद/Noun परेशान/Verb हो/AuxVerb जाती/Adjective थी/AuxVerb
+ कहीं/Noun तो/Conjunction ममी/Noun दुनिया/Noun भर/Noun में/Preposition ढिंढोरा/Verb पीटती/Preposition थीं/InVerb कि/Conjunction वह/Pronoun अपनी/Pronoun बेटी/Noun के/Preposition साथ/Adverb शादी/Noun की/Preposition ज़बरदस्ती/Noun कभी/Adverb नहीं/Noun करेंगी/Verb
+ अब/Verb जैसे/Conjunction उसकी/Pronoun उम्र/Noun के/Preposition हर/Preposition बढ़ते/Adverb साल/Noun के/Preposition साथ/Noun उल्टे/Adverb रास्ते/Adverb पर/Conjunction बढ़ती/Adjective जा/Verb रही/AuxVerb हैं/AuxVerb
+ नेहा/Noun का/Preposition डर/Adjective सच/Noun निकलाममी/Verb ने/Preposition पीटर/Adjective के/Preposition बारे/Verb में/Preposition सवाल/Adjective पूछ/Noun ही/AuxVerb लिया/AuxVerb
+ जब/Adverb पापा/Noun ने/Preposition उसे/Pronoun पीटर/Adjective के/Preposition यहाँ/Preposition ड्राप/Noun किया/AuxVerb था/AuxVerb उन्हीं/Verb दिनों/Noun ममी/Noun ने/Preposition भी/Adverb सवाल/Noun पूछा/Verb था/AuxVerb उस/Pronoun रिश्ते/Noun में/Preposition शादी/Noun की/Preposition गंभीरता/Adjective का/Preposition
+ ममी/Noun को/Preposition टाल/Noun दिया/Verb था/AuxVerb नेहा/Noun नेपर/Preposition अपने/Adverb आप/Pronoun से/Preposition यही/Noun सवाल/Noun वह/Pronoun बार/Adjective बात/Noun पूछती/Verb थी/AuxVerb और/Conjunction पीटर/Adjective से/Preposition भी/Adverb
+ उस/Pronoun दिन/Noun जब/Adverb पापा/Noun ने/Preposition उसे/Pronoun पीटर/Adjective के/Preposition यहाँ/Preposition ड्राप/Noun किया/Verb तो/Conjunction वही/Preposition सब/Adjective कुछ/Adjective हुआ/Verb जिसका/Adjective पापा/Noun को/Preposition डर/Verb था/AuxVerb
+ फिर/Conjunction भी/Adverb उसने/Pronoun सब/Adjective कुछ/Verb नहीं/Noun होने/Verb दिया/Verb क्योंकि/Adjective पापा/Noun की/Preposition बात/Noun कहीं/Noun भीतर/Noun तक/Preposition गड़/Noun गई/Verb थी/AuxVerb
+ पीटर/Adjective ने/Preposition उसका/Pronoun हाथ/Noun छुआ/Verb ही/AuxVerb था/AuxVerb कि/Conjunction वह/Pronoun बोल/Preposition पड़ी/Preposition अगर/Conjunction तुम्हारा/Noun शादी/Noun का/Preposition ख़याल/Noun नहीं/Verb तो/Conjunction मैं/Pronoun इस/Adjective रिश्ते/Noun को/Preposition आगे/Noun बढ़ाना/Verb नहीं/Verb चाहूँगी/Noun
+ पीटर/Adjective ने/Preposition घचके/Preposition से/Preposition हाथ/Noun पीछे/Verb कर/AuxVerb लिया/AuxVerb था/AuxVerb
+ बहुत/Adjective देर/Adverb तक/Preposition खामोश/Adjective सोचता/Verb रहा/Verb था/AuxVerb
+ फिर/Conjunction पीटर/Adjective ने/Preposition उसका/Pronoun चेहरा/Noun दोनों/Adjective हाथों/Noun मे/Preposition लेकर/Verb चूम/Verb लिया/AuxVerb और/Conjunction उसके/Pronoun कंधों/Noun को/Preposition थपथपाता/Verb हुआ/Verb बोला/Verb था/AuxVerb इतनी/Noun टैंस/Noun क्यों/Verb हो/AuxVerb तुम/Pronoun आज/Adverb
+ करने/Noun का/Preposition वक्त/Noun रहा/Verb नहीं/Noun
+ रोज़/Noun किसी/Verb न/Noun किसी/Verb तरह/Noun से/Preposition शादी/Noun की/Preposition बात/Noun छिड़/Noun ही/AuxVerb जाती/Adjective है/AuxVerb
+ खुद/Noun को/Preposition पीटर/Adjective के/Preposition स्पर्श/Noun से/Preposition झटककर/Verb नेहा/Noun ने/Preposition कहा/Verb था/AuxVerb
+ तुम/Pronoun सचमुच/Adverb शादी/Noun करना/Verb चाहती/Verb हो/AuxVerb मुझसे/Preposition
+ पता/Noun नहीं/Noun नेहा/Noun के/Preposition मुँह/Noun से/Preposition क्या/Adjective निकला/Noun था/AuxVerb
+ ममी/Noun पापा/Noun की/Preposition पसंदगी/Noun नापसंदगी/Noun खुद/Adjective पीटर/Noun के/Preposition साथ/Adverb भविष्य/Adjective को/Preposition लेकर/Verb संदेह/Adjective कितना/Verb कुछ/Verb तो/Conjunction था/AuxVerb
+ इस/Adjective जवाब/Noun की/Preposition भूमिका/Preposition बनता/Verb हुआ/Verb
+ वह/Pronoun शायद/Adjective हाँ/Noun कहना/Verb चाहती/Verb थी/Verb पर/Conjunction मन/Preposition में/Preposition खीझ/Noun सी/Noun भरी/Noun हुई/Noun थी/Verb
+ उसकी/Pronoun ज़िन्दगी/Noun का/Preposition सबसे/Adverb अहम्/Adjective फ़ैसला/Noun था/AuxVerb और/Conjunction उसे/Pronoun समझ/Verb ही/AuxVerb नहीं/Noun आ/Verb रहा/Verb था/AuxVerb कि/Conjunction क्या/Noun फ़ैसला/Verb ले/Noun
+ तो/Conjunction मुझसे/Preposition क्या/Adjective उम्मीद/Noun करती/Verb हो/AuxVerb मैं/Pronoun तो/Conjunction फिलहाल/Adverb शादी/Noun वादी/Noun का/Preposition सोचना/Preposition चाहता/Verb ही/AuxVerb नहीं/Noun
+ फिर/Conjunction यह/Preposition भी/Adverb तो/Conjunction ज़रूरी/Adjective है/AuxVerb कि/Conjunction हम/Pronoun एकदूसरे/Noun को/Preposition भलीभाँति/Adjective जान/Noun लें/Verb पूरी/Adjective तरह/Adjective से/Preposition
+ जिस/Noun जानने/Verb की/Preposition तुम/Pronoun बात/Noun करते/Verb हो/AuxVerb वह/Pronoun शादी/Noun के/Preposition बाद/Adjective ही/AuxVerb हो/AuxVerb सकता/Verb है/AuxVerb
+ शादी/Noun का/Preposition फ़ैसला/Noun मैं/Pronoun तभी/Adverb कर/AuxVerb सकता/Verb हूँ/AuxVerb जब/Adverb कि/Conjunction हमारी/Pronoun हर/Adjective तरह/Noun से/Preposition कम्पैटिबिलिटी/Verb हो/AuxVerb
+ मान/Adjective लो/Verb मैं/Pronoun तुम्हारी/Adjective बात/Noun मान/Adjective भी/Adverb लूँ/Noun तो/Conjunction क्या/Noun गारंटी/Verb है/AuxVerb कि/Conjunction तुम/Pronoun मुकर/Verb नहीं/Noun जाओगे/Preposition
+ गारंटी/Verb तो/Conjunction कभी/Adverb होगी/AuxVerb ही/AuxVerb नहीं/Noun शादी/Noun के/Preposition बाद/Adjective भी/Adverb नहीं/Noun
+ क्या/Adjective तुम/Pronoun मुझे/Pronoun गारंटी/Verb दे/AuxVerb सकती/Verb हो/AuxVerb कि/Conjunction मुझे/Pronoun छोड़/Verb कर/Verb नहीं/Noun जाओगी/Preposition
+ हाँ/Verb पर/Conjunction अगर/Conjunction तुम/Pronoun किसी/Noun दूसरी/Adverb ओर/Preposition आकृष्ट/Verb हो/AuxVerb जाओ/Verb ता/Noun मैं/Pronoun तुम्हारे/Noun साथ/Noun चिपकी/Verb नहीं/Noun रहूँगी/Preposition
+ खैर/Noun ये/Pronoun सब/Adjective कहने/Noun की/Preposition बातें/Verb हैं/AuxVerb
+ अगर/Conjunction गारंटियाँ/Verb होतीं/Noun तो/Conjunction इतने/Noun तलाक/Noun क्यों/Verb होते/AuxVerb
+ हमारा/Pronoun रिश्ता/Noun आज/Adverb सुखद/Verb है/AuxVerb तो/Conjunction कल/Noun को/Preposition बिगड़/Verb भी/Adverb सकता/Verb है/AuxVerb
+ रह/AuxVerb कर/AuxVerb पता/Noun लगता/Noun है/AuxVerb और/Conjunction साथ/Noun रहने/Verb से/Preposition तुम/Pronoun घबराती/Verb हो/AuxVerb
+ तुम़्हें/Noun मेरी/Noun मजबूरी/Noun का/Preposition पता/Noun है/AuxVerb
+ मुझमें/Preposition भी/Adverb तुम्हें/Noun खुद/Noun को/Preposition सौंप/Verb देने/Verb की/Preposition उतावली/Noun तुमसे/Pronoun कम/Preposition नहीं/Noun
+ और/Conjunction इसके/Noun लिए/Noun तुम/Pronoun मुझसे/Preposition शादी/Noun जैसी/Noun चीज़/Noun में/Preposition घसीटना/Verb चाहती/Verb हो/AuxVerb
+ शादी/Noun का/Preposition मतलब/Preposition साथ/Noun रहना/Preposition उतना/Adverb नहीं/Noun जितना/Verb कि/Conjunction दुनियावी/Noun ज़िम्मेदारियों/Verb को/Preposition निभाना/Noun होता/Verb है/AuxVerb
+ ठीकठाक/Adverb घर/Noun ठीकठाक/Adverb साजसज्जा/Preposition ठीकठाक/Adverb बच्चे/Noun सब/Adjective कुछ/Adjective ठीकठाक/Adverb होना/Noun होता/Verb है/AuxVerb
+ मैं/Pronoun अभी/Adverb इस/Adjective सबके/Noun लिए/Noun तैयार/Preposition नहीं/Noun
+ अगर/Conjunction तुम/Pronoun सचमुच/Adverb मुझे/Pronoun प्यार/Noun करती/Verb हो/AuxVerb तो/Conjunction उस/Pronoun चक्कर/Noun में/Preposition डालना/Verb नहीं/Noun
+ और/Conjunction फिर/Conjunction बात/Noun यहाँ/Preposition तक/Preposition पहुँच/Adjective गई/Verb थी/AuxVerb कि/Conjunction पीटर/Adjective जब/Adverb भी/Adverb उसे/Pronoun छूने/Adjective की/Preposition कोशिश/Noun करता/Noun वह/Pronoun खुद/Noun को/Preposition जकड़/Verb लेती/Noun ताकि/Adjective भाव/Noun में/Preposition आकर/Noun कुछ/Adjective गलत/Adverb न/Noun कर/AuxVerb बैठे/Verb
+एक/Adjective बार/Adjective उसने/Pronoun कह/Verb ही/AuxVerb डाला/Noun था/AuxVerb क्या/Adjective बात/Noun है/AuxVerb मेरा/Pronoun स्पर्श/Noun तुममें/Pronoun भी/Adverb प्रतिक्रिया/Noun जगाता/Verb नहीं/Noun
+ वह/Pronoun यों/Noun ही/AuxVerb जकड़ी/Verb खामोश/Adjective बैठी/Verb रही/AuxVerb थी/AuxVerb
+ फिर/Conjunction पीटर/Adjective से/Preposition मिलने/Verb से/Preposition कतराने/Verb लगी/Verb थी/AuxVerb
+ शायद/Adjective पहले/Adjective अपने/Adverb भीतर/Preposition को/Preposition सुलझा/Verb लेना/Noun चाहती/Verb थी/AuxVerb
+ किस/Noun पर/Conjunction भरोसा/Adjective करे/Verb
+ पीटर/Adjective पर/Conjunction या/Conjunction ममी/Noun पापा/Noun पर/Conjunction
+ वह/Pronoun खुद/Noun क्या/Noun चाहती/Verb है/AuxVerb
+ ममी/Noun ने/Verb फिर/Conjunction वही/Preposition सवाल/Noun दोहराया/Adjective तो/Conjunction नेहा/Noun ने/Verb कितने/Adjective सारे/Adverb तनावों/Noun से/Preposition एक/Adjective साथ/Adverb मुक्ति/Noun पाने/Noun के/Preposition लिए/Noun बक/Adjective दिया/Verb था/AuxVerb
+ नेहा/Noun के/Preposition चेहरे/Noun पर/Conjunction जर्दी/Noun और/Conjunction लाली/Noun एक/Adjective साथ/Adverb आ/Verb जा/Verb रही/AuxVerb थीं/InVerb
+ ममी/Noun ने/Preposition भाँप/Noun लिया/AuxVerb था/AuxVerb और/Conjunction किसी/Noun अविश्यंभावी/Adjective खतरे/Noun ने/Preposition उनको/Pronoun सहमा/Adjective दिया/Verb था/AuxVerb
+ नेहा/Noun उसे/Pronoun खतरा/Noun मानती/Verb हो/AuxVerb या/Conjunction न/Verb पर/Conjunction मन/Preposition अस्वस्थ/Adjective ज़रूर/Adjective हो/AuxVerb रहा/Verb था/AuxVerb
+ उसने/Pronoun पापा/Noun से/Preposition कहा/Verb था/AuxVerb
+ यहाँ/Preposition मैनहैटन/Preposition में/Preposition गाड़ी/Noun चलाने/Verb का/Preposition मौका/Noun ही/Verb नहीं/Noun मिलता/Verb इसीलिए/Conjunction कान्फिडेंस/Verb ही/Verb नहीं/Noun जमताआपको/Verb फिर/Conjunction कुछ/Adjective प्रैक्टिस/Adjective करानी/Noun होगी/AuxVerb
+ ममी/Noun ने/Preposition उनके/Noun निकलने/Verb से/Preposition पहले/Noun कह/Verb दिया/Verb था/AuxVerb
+ तू/Pronoun मेरी/Noun बात/Noun मान/Verb तो/Conjunction अभी/Adverb भी/Adverb देर/Adverb नहीं/Noun हुईबात/Adjective चलाती/Noun हूँ/AuxVerb कहीं/Noun न/Noun कहीं/Noun तो/Conjunction काम/Noun बनेगा/Verb ही/AuxVerb
+ इतनी/Noun बड़ी/Adjective आर्किटेक्ट/Verb है/AuxVerb तू/Pronoun कल/Noun उमा/Noun कह/Verb रही/AuxVerb थी/AuxVerb कि/Conjunction उसकी/Pronoun सहेली/Noun का/Preposition लड़का/Noun भी/Adverb कुँवारा/Noun बैठा/Verb है/AuxVerb
+ मीटिंग/Noun तय/Verb कर/AuxVerb दूँ/Noun तुम/Pronoun दोनों/Verb की/Verb
+ अपने/Adverb आप/Pronoun से/Preposition ही/AuxVerb बाहर/Preposition कहीं/Noun मिल/Adjective लो/Verb
+ हमें/Preposition बीच/Preposition में/Preposition डालने/Verb की/Preposition भी/Adverb ज़रूरत/Noun नहीं/Noun
+ पापा/Noun ने/Preposition ममी/Noun को/Preposition डाँट/Noun दिया/Verb था/AuxVerb
+ क्यों/Noun बार/Adjective बात/Noun उसे/Pronoun एम्बैरेस/Noun करती/Verb हो/AuxVerb
+ जब/Adverb शादी/Noun को/Preposition तैयार/Verb होगी/AuxVerb अपने/Adverb आप/Pronoun बता/Verb देगी/Verb
+ बड़ी/Verb हो/AuxVerb गई/Verb है/AuxVerb
+ अपने/Pronoun बारे/Verb में/Preposition खुद/Noun फ़ैसला/Verb ले/Noun सकती/Verb है/AuxVerb
+ तुम/Pronoun पहले/Verb तो/Conjunction उसे/Pronoun यहाँ/Verb के/Preposition खुले/Adverb ढंग/Noun से/Preposition पालती/Adjective रही/AuxVerb हो/AuxVerb
+ अब/Adverb क्या/Verb फिर/Conjunction से/Preposition पीछे/Noun ढकेलना/Verb चाहती/Verb हो/AuxVerb
+ गाड़ी/Noun चलाते/Verb हुए/Noun नेहा/Noun को/Preposition लगा/Verb कि/Conjunction उसकी/Pronoun ड्राइविंग/Verb पर/Conjunction पकड़/Preposition काफी/Adjective अच्छी/Adjective हो/AuxVerb गई/Verb है/AuxVerb
+ थोड़ीसी/Noun प्रैक्टिस/Verb के/Preposition बाद/Adjective शायद/Adjective वह/Pronoun अपने/Adverb आप/Pronoun ही/AuxVerb पूरे/Adverb आत्मविश्वास/Verb के/Preposition साथ/Noun चलाने/Verb लगेगी /Verb
+ अचानक/Adjective उसने/Pronoun पापा/Noun को/Preposition कहते/Verb हुए/Noun सुना/Verb
+ लाल/Adjective बत्ती/Noun पर/Conjunction हमेशा/Noun रूका/Verb करो/Noun
+ कई/Adjective बार/Adjective आस/Noun पास/Noun ट्रैफिक/Noun नहीं/Noun होता/Verb तो/Conjunction इंसान/Noun की/Preposition प्रवृत्ति/Noun होती/AuxVerb है/AuxVerb कि/Conjunction चलता/Noun जाए/Noun
+ पर/Conjunction अगर/Conjunction लाल/Adjective बत्ती/Noun पर/Conjunction सड़क/Adjective पार/Noun करने/Noun की/Preposition ऐसी/Adjective आदत/Noun डाल/Noun लो/Verb तो/Conjunction अक्सर/Noun दुर्घटना/Verb होने/Verb का/Preposition ख़तरा/Noun हो/AuxVerb जाता/Adjective है/AuxVerb
+ ऐसा/Adjective मुमकिन/Adjective है/AuxVerb कि/Conjunction आप/Pronoun ध्यान/Noun से/Preposition न/Noun देख/Verb सकें/Verb और/Conjunction अचानक/Adjective कोई/Adjective गाड़ी/Noun कहीं/Noun से/Preposition निकल/Verb कर/AuxVerb आपसे/Preposition टकरा/Noun जाए/Noun
+ पापा/Noun ने/Preposition दोहराया/Adjective सो/Verb लाल/Adjective बत्ती/Noun के/Preposition होते/AuxVerb सड़क/Noun पार/Noun कभी/Adverb मत/Noun करना/Verb यह/Adjective चेतावनी/Noun तुम्हें/Noun बारबार/Verb देता/Verb हूँ/AuxVerb
+ पापा/Noun उसे/Pronoun क्यों/Noun बतला/Verb रहे/Verb थे/AuxVerb यह/Preposition सब/Adjective
+ क्या/Pronoun उसने/Pronoun सचमुच/Adverb लाल/Adjective बत्ती/Noun पार/Noun की/Preposition थी/AuxVerb
+ या/Conjunction पापा/Noun का/Preposition उसे/Pronoun आगाह/Adjective करते/Verb रहना/Preposition क्या/Pronoun पिता/Noun के/Preposition धर्म/Noun पालन/Noun से/Preposition ज़्यादा/Adjective नहीं/Noun था/AuxVerb
+ पापा/Noun के/Preposition अपने/Adverb मन/Verb के/Preposition डर/Noun
+ कहीं/Noun ऐसा/Adjective तो/Conjunction नहीं/Noun कि/Conjunction बत्तियाँ/Noun आए/Verb जाए/Noun चली/Verb जा/Verb रही/AuxVerb थीं/Verb गाड़ियाँ/Noun निकले/Noun चली/Verb जा/Verb रही/AuxVerb थीं/Verb और/Conjunction वह/Pronoun लाल/Adjective बत्ती/Noun पर/Conjunction ही/AuxVerb खड़ी/Noun थी/AuxVerb
+ पापा/Noun कहते/Verb चले/Verb जा/Verb रहे/Verb थे/AuxVerb यों/Noun तुम/Pronoun सीख/Noun तो/Conjunction गई/Verb हो/AuxVerb अब/Adverb
+ अच्छा/Noun चलाने/Verb लगी/Verb हो/AuxVerb
+ बाकी/Noun जितना/Verb चलाओगी/Preposition उतना/Adverb ही/AuxVerb आत्मविश्वास/Noun भी/Adverb बढ़ेगा/Verb
+ बस/Noun सड़क/Noun की/Preposition लय/Noun सुनना/Adjective मत/Noun भूलना/Verb यही/Noun एक/Adjective अच्छे/Noun ड्राइवर/Noun की/Preposition निशानी/Noun है/AuxVerb
+ वर्ना/Noun बारबार/Verb दुर्घटनाएँ/Verb होंगी/AuxVerb
+ इस/Adjective देश/Noun में/Preposition अपने/Adverb बूते/Noun जीने/Adjective के/Preposition लिए/Noun गाड़ी/Noun चलाना/Verb भी/Adverb उतना/Adverb ही/AuxVerb ज़रूरी/Adjective है/AuxVerb जितना/Verb पढ़ना/Verb लिखना/Verb
+ इसलिए/Conjunction ज़रूरी/Adjective है/AuxVerb कि/Conjunction सड़क/Noun की/Preposition लय/Noun को/Preposition सुने/Verb को/Preposition सुने/Verb और/Conjunction उसी/Pronoun हिसाब/Noun से/Preposition चलाओ/Verb ताकि/Adjective सेफ/Noun ड्राइवर/Noun बन/Verb सको/Verb
+ सहसा/Adjective नेहा/Noun को/Preposition लगा/Verb जैसे/Conjunction जो/Conjunction पापा/Noun कह/Verb रहे/Verb हैं/AuxVerb
+ वह/Pronoun सुन/Verb नहीं/Noun रही/AuxVerb है/AuxVerb फिर/Conjunction भी/Adverb कुछ/Noun सुन/Verb रही/AuxVerb है/AuxVerb
+ पर/Conjunction जो/Preposition वह/Pronoun सुन/Verb रही/AuxVerb है/AuxVerb वह/Pronoun शायद/Adjective पापा/Noun नहीं/Noun सुन/Verb रहे/Verb हैं/AuxVerb
+ शायद/Adjective पापा/Noun कह/Verb भी/Adverb नहीं/Noun रहे/Verb पर/Conjunction नेहा/Noun सुन/Verb पा/Verb रही/AuxVerb है/AuxVerb
+ कुछ/Adjective ऐसा/Adjective जिससे/Noun न/Noun वह/Pronoun वाकिफ़/Adjective थी/AuxVerb न/Noun ही/AuxVerb जिसके/Noun प्रति/Adjective सजग/Adjective
+ जैसे/Conjunction वे/Pronoun स्वर/Noun कहीं/Noun दूर/Noun से/Preposition किसी/Noun बहुत/Adjective गहरे/Adjective समुद्र/Noun से/Preposition उठे/InVerb हों/AuxVerb बहुत/Adjective अस्पष्ट/Noun भारी/Verb और/Conjunction गीले/Noun से/Preposition
+ अपने/Adverb ही/AuxVerb बोझ/Noun से/Preposition झुके/Noun कि/Conjunction सतह/Noun पर/Conjunction आएँ/Verb भी/Adverb
+ तो/Conjunction जलराशी/Preposition में/Preposition निमग्न/Verb पहचान/Noun से/Preposition बाहर/Noun जो/Noun किन्ही/Verb शब्दों/Noun में/Preposition नहीं/Noun ढल पाते/Verb या/Conjunction सुने/Verb जातेकिसी/Adjective लहर/Noun की/Preposition ही/AuxVerb तरह/Noun कहीं/Noun से/Preposition उठते/Adjective
+ वहीं/Noun समा/Adjective जाते/Verb हैं/AuxVerb
+ क्या/Noun वही/Verb थी/AuxVerb सड़क/Noun की/Preposition लय/Noun
+ पापा/Noun कह/Verb रहे/Verb थे/AuxVerb तुम/Pronoun मुझे/Pronoun पहले/Adjective घर/Adjective ड्राप/Noun कर/AuxVerb दो/AuxVerb इसके/Noun बाद/Adjective जहाँ/Noun जाना/Verb है/AuxVerb चली/Verb जाना/Verb
+ पर/Conjunction यह/Verb तो/Conjunction पापा/Noun की/Preposition आवाज़/Verb नहीं/Noun थी/AuxVerb
+ कुछ/Adjective ऐसी/Adjective आवाज़/Verb थी/AuxVerb कि/Conjunction लगता/Noun था/AuxVerb उसकी/Pronoun अपनी/Pronoun आवाज़/Verb से/Preposition ही/AuxVerb मिलतीजुलती/Verb है/AuxVerb
+ सामने/Adjective हरी/Noun बत्ती/Noun भी/Adverb शायदनेहा/Verb ने/Preposition गाड़ी/Noun चला/Verb दी/Adjective
+जनवरी/Noun को/Preposition स्टीफन/Noun हॉकिंग/Noun का/Preposition जन्म/Noun हुआ/Verb था/AuxVerb
+हालांकि/Conjunction वे/Pronoun एक/Adjective अच्छे/Noun शिक्षित/Adjective परिवार/Noun में/Preposition पैदा/Verb हुए/Verb थे/AuxVerb परन्तु/Conjunction उनके/Pronoun परिवार/Noun की/Preposition आर्थिक/Adjective अवस्था/Noun ठीक/Verb नहीं/Noun थी/AuxVerb
+द्वितीय/Adjective विश्व/Noun युद्ध/Noun का/Preposition समय/Noun आजीविका/Adjective अर्जन/Noun के/Preposition लिए/Noun काफी/Noun चुनौतीपूर्ण/Verb था/Verb और/Conjunction एक/Adjective सुरक्षित/Noun जगह/Verb की/Preposition तलाश/Preposition में/Adjective उनका/Pronoun परिवार/Noun ऑक्सफोर्ड/Adjective आ/Adjective गया/Verb
+आप/Pronoun को/Preposition यह/Pronoun जानकार/Verb अचरज/Noun होगा/Verb कि/Conjunction जो/Conjunction स्टीफन/Noun हॉकिंग/Noun आज/Adverb इतने/Adjective महान/Adjective ब्रह्मांड/Noun विज्ञानी/Noun है/AuxVerb उनका/Pronoun स्कूली/Noun जीवन/Noun बहुत/Adjective उत्कृष्ट/Verb नहीं/Noun था/AuxVerb
+वे/Pronoun शुरू/Adjective में/Adjective अपनी/Adjective कक्षा/Noun में/Adjective औसत/Noun से/Preposition कम/Adjective अंक/Noun पाने/Noun वाले/Adjective छात्र/Noun थे,/AuxVerb किन्तु/Adjective उन्हें/Pronoun बोर्ड/Noun गेम/Noun खेलना/Verb अच्छा/Adjective लगता/Verb था/AuxVerb
+उन्हें/Pronoun गणित/Noun में/Preposition बहुत/Adjective दिलचस्पी/Noun थी/AuxVerb यहाँ/Pronoun तक/Verb कि/Conjunction उन्होंने/Pronoun गणितीय/Adjective समीकरणों/Noun को/Adjective हल/Noun करने/Noun के/Preposition लिए/Noun कुछ/Adjective लोगों/Noun की/Preposition मदद/Noun से/Preposition पुराने/Noun इलेक्ट्रॉनिक/Noun उपकरणों/Noun के/Preposition हिस्सों/Noun से/Preposition कंप्यूटर/Verb बना/Noun दिया/Verb था/AuxVerb
+ग्यारह/Adjective वर्ष/Noun की/Preposition उम्र/Noun में/Adjective स्टीफन,/Adjective स्कूल/Noun गए/Verb और/Conjunction उसके/Pronoun बाद/Adjective यूनिवर्सिटी/Noun कॉलेज,/Preposition ऑक्सफोर्ड/Preposition गए|/Adjective स्टीफन/Noun गणित/Noun का/Preposition अध्ययन/Noun करना/Verb चाहते/Verb थे/AuxVerb लेकिन/Conjunction यूनिवर्सिटी/Noun कॉलेज/Noun में/Adjective गणित/Noun उपलब्ध/Verb नहीं/Noun थी/Verb इसलिए/Conjunction उन्होंने/Pronoun भौतिकी/Preposition अपनाई/Preposition
+उस/Pronoun समय,/Adjective डॉक्टरों/Noun ने/Preposition कहा/Verb कि/Conjunction स्टीफन/Noun हॉकिंग/Preposition दो/Adjective वर्ष/Noun से/Preposition अधिक/Verb नहीं/Noun जी/Noun पाएंगे/Verb और/Conjunction उनकी/Noun जल्द/Noun ही/AuxVerb मृत्यु/Noun हो/AuxVerb जाएगी/Verb
+धीरे-धीरे/Adverb हॉकिंग/Verb की/Preposition शारीरिक/Adjective क्षमता/Noun में/Preposition गिरावट/Noun आना/Verb शुरू/Adjective हो/AuxVerb गयी|/Verb उन्होंने/Pronoun बैसाखी/Noun का/Preposition इस्तेमाल/Noun शुरू/Adjective कर/AuxVerb दिया/Verb और/Conjunction नियमित/Preposition रूप/Preposition से/Preposition व्याख्यान/Noun देना/AuxVerb बंद/Verb कर/AuxVerb दिया/Verb
+ उनके/Noun शरीर/Verb के/Preposition अंग/Noun धीरे/Adverb धीरे/Adverb काम/Noun करना/Verb बंद/Verb हो/AuxVerb गये/Verb और/Conjunction उनका/Pronoun शरीर/Verb धीरे/Adverb धीरे/Adverb एक/Adjective जिन्दा/Preposition लाश/Preposition समान/Noun बन/Verb गया/Verb
+लेकिन/Conjunction हॉकिंग/Verb ने/Preposition विकलांगता/Noun को/Preposition अपने/Adverb ऊपर/Noun हावी/Noun होने/Verb नहीं/Noun दिया।/Preposition
+उन्होंने/Pronoun अपने/Adverb शोध/Noun कार्य/Verb और/Conjunction सामान्य/Adjective जिंदगी/Noun को/Noun रूकने/Verb नहीं/Noun दिया/Verb
+जैसे/Conjunction जैसे/Conjunction उन्होंने/Pronoun लिखने/Verb की/Preposition क्षमता/Noun खोई,/Adjective उन्होंने/Pronoun प्रतिपूरक/Noun दृश्य/Adjective तरीकों/Noun का/Preposition विकास/Noun किया/AuxVerb यहाँ/Pronoun तक/Verb कि/Conjunction वह/Pronoun समीकरणों/Noun को/Adjective ज्यामिति/Noun में/Pronoun देखने/Verb लगे/Verb
+जब/Conjunction हर/Noun किसी/Verb ने/Preposition आशा/Noun खो/Noun दी/Adjective तब/Conjunction स्टीफन/Noun अपने/Adverb अटूट/Adjective विश्वास/Noun और/Conjunction प्रयासों/Noun के/Preposition दम/Noun पर/Conjunction इतिहास/Noun लिखने/Verb की/Preposition शुरुआत/Verb कर/AuxVerb चुके/Noun थे|/Preposition उन्होंने/Pronoun अपनी/Adjective अक्षमता/Verb और/Conjunction बीमारी/Preposition को/Preposition एक/Adjective वरदान/Noun के/Preposition रूप/Preposition में/Preposition लिए/Noun ।/Adjective उनके/Noun ख़ुद/Noun के/Preposition शब्दों/Noun में/Preposition वह/Noun कहते/Verb हैं,/AuxVerb
+मेरी/Noun बिमारी/Noun का/Preposition पता/Noun चलने/Noun से/Preposition पहले,/Preposition मैं/Pronoun जीवन/Noun से/Preposition बहुत/Adjective ऊब/Noun गया/Verb था|/Preposition ऐसा/Adjective लग/Verb रहा/Verb था/Verb कि/Conjunction कुछ/Adjective भी/Adverb करने/Noun लायक/Verb नहीं/Noun रह/AuxVerb गया/Verb है/AuxVerb
+लेकिन/Conjunction जब/Conjunction उन्हें/Pronoun अचानक/Adjective यह/Pronoun अहसास/Noun हुआ/Verb कि/Conjunction शायद/Adjective वे/Pronoun अपनी/Adjective पीएचडी/Noun भी/Adverb पूरी/Noun नहीं/Noun कर/AuxVerb पायेंगे/Verb तो/Conjunction उन्होंने,/Adjective अपनी/Adjective सारी/Adjective ऊर्जा/Noun को/Adjective अनुसंधान/Noun के/Preposition लिए/Noun समर्पित/Verb कर/AuxVerb दिया/Verb
+अपने/Adverb एक/Adjective इंटरव्यू/Noun में/Preposition उन्होंने/Pronoun यह/Pronoun भी/Adverb उल्लेख/Noun किया/AuxVerb है/AuxVerb
+की/Preposition उम्र/Noun में/Adjective मेरी/Noun सारी/Adjective उम्मीदें/Noun शून्य/Verb हो/AuxVerb गयी/Verb थी/AuxVerb और/Conjunction उसके/Pronoun बाद/Adjective जो/Noun पाया/Verb वह/Pronoun बोनस/Noun है/AuxVerb
+उनकी/Noun उनकी/Noun बीमारी/Verb ठीक/Verb नहीं/Noun हुयी/Noun और/Conjunction उनकी/Noun बीमारी/Verb ने/Preposition उन्हें/Pronoun व्हीलचेयर/Verb पर/Conjunction ला/Noun दिया/Verb और/Conjunction उन्हें/Pronoun एक/Adjective कंप्यूटर/Noun मशीन/Noun के/Preposition माध्यम/Noun से/Preposition बात/Noun करने/Noun के/Preposition लिए/Noun मजबूर/Verb कर/AuxVerb दिया,/Verb लेकिन/Conjunction वे/Pronoun कभी/Adverb रुके/Verb नहीं/Noun
+उनके/Noun ख़ुद/Noun के/Preposition शब्दों/Noun में/Preposition समय/Noun है/AuxVerb 
+हालांकि/Conjunction मैं/Pronoun चल/Verb नहीं/Noun सकता/Verb और/Conjunction कंप्यूटर/Noun के/Preposition माध्यम/Noun से/Preposition बात/Noun करनी/Verb पड़ती/Verb है/AuxVerb लेकिन/Conjunction अपने/Adverb दिमाग/Noun से/Preposition मैं/Pronoun आज़ाद/Noun हूँ/AuxVerb
+बावजूद/Noun इसके/Noun कि/Conjunction स्टीफन/Noun हॉकिंग/Adjective का/Preposition शरीर/Noun एक/Adjective जिन्दा/Noun लाश/Verb की/Preposition तरह/Noun हो/AuxVerb गया/Verb था/Verb लेकिन/Conjunction उन्होंने/Pronoun कभी/Adverb हार/Noun नहीं/Noun मानी/Verb
+वे/Pronoun यात्राएं/Noun करते/Verb है/AuxVerb सार्वजनिक/Noun कार्यक्रमों/Noun में/Noun भाग/Preposition लेते/InVerb है/AuxVerb और/Conjunction आज/Adverb लगभग/Adjective 74/Adjective वर्ष/Noun की/Preposition उम्र/Noun में/Noun निरंतर/Preposition अपने/Adverb शोध/Noun कार्य/Preposition में/Noun लगे/Verb हुए/Noun है/AuxVerb
+उन्होंने/Pronoun विश्व/Noun को/Preposition कई/Adjective महत्वपूर्ण/Adjective विचारधाराएँ/Noun प्रदान/Verb की/Preposition और/Conjunction अंतरिक्ष/Noun विज्ञान/Noun के/Preposition क्षेत्र/Noun में/Preposition अपना/Adjective अतुल्य/Adjective योगदान/Noun दिया/Verb
+वे/Adjective अंतरिक्ष/Noun में/Adjective जाना/Noun चाहते/Verb है/AuxVerb और/Conjunction वे/Adjective कहते/Verb है/AuxVerb कि/Conjunction उन्हें/Pronoun ख़ुशी/Noun होगी/AuxVerb कि/Conjunction भले/Adverb ही/AuxVerb उनकी/Noun अंतरिक्ष/Noun में/Adjective मृत्यु/Noun हो/AuxVerb जाए/Noun
+जीने/Adjective की/Preposition इच्छा/Noun और/Conjunction चुनौतियों/Noun को/Adjective स्वीकार/Noun करने/Noun के/Preposition लिए/Noun तत्परता/Noun से/Preposition स्टेफन/Noun हाकिंग/Verb ने/Preposition यह/Pronoun साबित/Verb कर/AuxVerb दिया/Verb कि/Conjunction मृत्यु/Noun निश्चित/Verb है/AuxVerb लेकिन/Conjunction जन्म/Noun और/Conjunction मृत्यु/Noun के/Preposition बीच/Preposition कैसे/Adverb जीना/Verb चाहते/Verb हैं/AuxVerb वह/Verb हम/Pronoun पर/Conjunction निर्भर/Verb है/AuxVerb
+हम/Pronoun ख़ुद/Noun को/Adjective मुश्किलों/Verb से/Preposition घिरा/Noun पाकर/Noun निराशावादी/Adjective नज़रिया/Noun लेकर/Verb मृत्यु/Noun का/Preposition इंतज़ार/Noun कर/AuxVerb सकतें/Verb या/Conjunction जीने/Adjective की/Preposition इच्छा/Verb और/Conjunction चुनौतियों/Noun को/Adjective स्वीकार/Noun कर/AuxVerb ख़ुद/Noun को/Adjective अपने/Adverb सपनों/Noun के/Preposition प्रति/Noun समर्पित/Adjective करके/Noun एक/Adjective उद्देश्यपूर्ण/Adjective जीवन/Noun जी/Noun सकते/Verb है/AuxVerb
+हिमालय/Noun की/Preposition वह/Pronoun उंचे/Noun पर्वतोंकी/Preposition श्रुंखला/Verb और/Conjunction पर्वतोंपर/Adjective लहराते/Noun हूए,/Preposition आसमान/Noun में/Preposition बादलोंसे/Preposition बातें/Verb करते/Verb हूए/Verb उंचे/Noun पेढ/Verb
+आगे/Adjective बर्फ/Noun से/Preposition ढंकी/Verb हूई/Verb पर्वतोंकी/Noun ढलान/Verb चमक/Verb रही/AuxVerb थी/AuxVerb
+उस/Pronoun चमकती/Noun ढलान/Noun से/Preposition लगकर/Noun कहीं/Conjunction दूरसे/Preposition किसी/Adjective सांप/Noun की/Preposition तरह/Noun बल/Preposition खाती/Noun हूई/Verb एक/Adjective नदी/Noun गुजर/Verb रही/AuxVerb थी/AuxVerb
+शुभ्र/Adjective और/Conjunction अमृत/Noun की/Preposition तरह/Noun निर्मल/Adjective उस/Pronoun नदीका/Preposition पाणी/Adjective बहते/Noun हूए/Verb आसमंतमें/Verb जैसे/Conjunction एक/Adjective मधूर/Adjective धुन/Noun बिखेरता/Verb हूवा/Noun जा/Verb रहा/Verb था/AuxVerb
+उंचे/Noun उंचे/Noun पेढ/Verb की/Preposition सरसराहट/Verb ,/Conjunction पंछींयोंकी/Preposition चहचहाट,/Adjective बहते/Noun नदी/Noun की/Preposition मधूर/Adjective धुन/Noun
+इन/Noun कुदरती/Preposition बातोंसे/Preposition कौनसा/Noun युग/Noun चल/Verb रहा/Verb होगा/AuxVerb यह/Pronoun बताना/Preposition लगभग/Adjective नामुमकीन/Adjective थी/AuxVerb
+हजारो,/Adjective लाखो/Noun सालोंसे/Preposition चल/Verb रहे/Verb इन/Noun कुदरती/Adjective करिश्मों/Adjective में/Noun अगर/Conjunction मानवी/Adjective उत्थान/Noun का/Preposition प्रतीक/Noun समझे/Noun जाने/Noun वाली/Noun बातोंकी/Adjective उपस्थीती/Noun ना/AuxVerb हो/AuxVerb तो/Conjunction पुराना/Adjective युग/Noun क्या/Verb और/Conjunction आधुनिक/Adjective युग/Noun क्या/Verb
+दोनो/Adjective एक/Noun समान/Verb
+ऐसी/Adjective इस/Noun जगह/Adjective पर्वत/Noun की/Preposition गोदमें/Adjective नदीके/Noun किनारे/Adverb एक/Adjective पुरानी/Noun गुंफा/Verb थी/AuxVerb
+उस/Pronoun गुंफा/Verb के/Preposition आस/Noun पास/Noun उंची/Adjective हरी/Noun हरी/Noun घास/Noun हवा/Noun के/Preposition साथ/Noun लहरा/Verb रही/AuxVerb थी/AuxVerb
+गुंफा/Noun मे/Preposition एक/Adjective ऋषी/Noun ध्यानस्थ/Verb बैठा/Verb हूवा/Noun था/AuxVerb सरपर/Noun बढी/Verb हूई/Verb जटायें,/Adjective दाढी/Noun मुंछ/Noun बढ/Verb बढकर/Verb थकी/Verb हूई/Verb
+न/Noun जाने/Noun कितने/Adjective सालसे/Preposition तप/Noun कर/AuxVerb रहे/Verb ऋषी/Noun के/Preposition चेहरे/Noun पर/Preposition एक/Adjective तेज,/Noun एक/Adjective गांभीर्य/Noun झलक/Verb रहा/Verb था/AuxVerb
+आसपासके/Noun वातावरण/Noun से/Preposition अनजान/Verb ,/Conjunction या/Conjunction यूं/Adjective कहीए/Noun वक्त,/Preposition जगह/Verb और/Conjunction अपने/Adverb शरीर/Noun से/Preposition अनजान/Verb उनकी/Noun सुक्ष्म/Adjective अस्तीत्वका/Adjective विचर/Noun युगो/Noun युगोतक/Verb चल/Verb रहा/Verb होगा/AuxVerb
+अनादि,/Preposition अनंत,/Adjective सनातन/Adjective कालसे/Preposition विचर/Noun करते/Verb हूए/Verb उस/Pronoun ऋषीकी/Adjective सुक्ष्म/Adjective अहसास/Noun ने/Preposition इस/Preposition आधुनिक/Adjective युग/Noun में/Adjective प्रवेश/Noun किया/AuxVerb
+अमेरिकाके/Noun एक/Adjective शहरमें/Noun एक/Adjective रस्ते/Noun के/Preposition फुटपाथपर/Noun शामके/Noun समय/Adjective लोग/Noun अपनी/Adjective आधूनिकता/Noun की/Preposition शानमें/Preposition अपने/Adverb ही/AuxVerb धुनमें/Noun चले/Verb जा/Verb रहे/Verb थे/AuxVerb
+रस्तेपर/Adjective आलिशान/Adjective गाडीयाँ/Noun दौड/Verb रही/AuxVerb थी/AuxVerb
+लोग/Noun अपने/Adverb आपमे/Verb ही/AuxVerb इतने/Noun व्यस्त/Verb और/Conjunction मशगुल/Noun थे/AuxVerb की/Preposition उन्हे/Noun दुसरों/Adjective की/Preposition तरफ/Noun ध्यान/Noun देने/Verb की/Preposition बिलकुल/Adverb फुरसत/Noun नही/Noun थी/AuxVerb
+सब/Preposition कैसे/Adverb अनुशाशीत/Adjective ढंग/Noun से/Preposition एक/Adjective स्वयंचलित/Adjective यंत्र/Noun की/Preposition तरह/Noun चल/Verb रहा/Verb था/AuxVerb
+चलते/Verb हूए/Verb सबकी/Verb नजर/Noun कैसी/Adjective अपनी/Adjective नाक/Noun की/Preposition दिशा/Noun में/Adjective सिधी/Noun थी/AuxVerb
+हो/AuxVerb सकता/Verb है/AuxVerb उन्हे/Noun इधर/Noun उधर/Adverb देखते/Noun हूए/Verb चलना/Preposition भी/Adverb अपने/Adverb शिष्टाचार/Noun के/Preposition खिलाफ/Verb लगता/Noun होगा/AuxVerb
+ऐसेही/Preposition लोगों/Noun की/Preposition भिडमें/Adjective चलती/Noun हूई/Verb एक/Adjective बाईस/Noun तेईस/Noun साल/Noun की/Preposition सुंदरी/Noun अँजेनी/Preposition अपने/Adverb हाथमें/Preposition शॉपींग/Adjective बॅग/Noun लिये/Verb एक/Adjective दुकान/Noun मे/Preposition जानेके/Noun लिये/Verb मुडी/Verb
+चलते/Verb हूए/Verb एक/Adjective हाथ/Noun से/Preposition बडी/Noun खुबसुरतीसे/Preposition वह/Pronoun बिच/Noun बिचमें/Preposition अपने/Adverb चेहरे/Noun पर/Conjunction आती/Adverb लटोंको/Noun पिछे/Verb की/Preposition ओर/Adjective हटा/Noun रही/AuxVerb थी/AuxVerb
+उसकी/Noun लबालब/Adjective भरे/Noun शॉपिंग/Noun बॅग/Nounसे/Preposition लग/Verb रहा/Verb था/AuxVerb की/Preposition उसकी/Noun खरीदारी/Noun लगभग/Adjective पुरी/Noun हो/AuxVerb गयी/Verb होगी,/AuxVerb बस/Preposition कुछ/Adjective दो-एक/Determiner चिजें/Verb रह/AuxVerb गई/Verb होगी/AuxVerb
+अचानक/Adjective एक/Adjective पुलिस/Noun व्हन/Noun सायरन/Noun बजाती/Adverb हूई/Verb रास्ते/Adverb से/Preposition गुजरने/Verb लगी/Verb
+लोगोंका/Preposition अनुशाशन/Verb जैसे/Conjunction भंग/Verb हो/AuxVerb गया/Verb
+अँजेनी/Preposition दुकानमें/Preposition जाते/Verb हूए/Verb रुक/Verb गई/Verb और/Conjunction मुडकर/Verb क्या/Conjunction हूवा/Noun यह/Pronoun देखने/Verb लगी/Verb
+कोई/Noun चलते/Verb चलते/Verb रुककर,/Verb तो/Conjunction कोई/Noun चलते/Verb चलते/Verb मुडकर/Verb क्या/Conjunction हूवा/Noun यह/Pronoun देखने/Verb लगे/Verb
+न/Noun जाने/Noun कितने/Adjective दिनोंके/Verb बाद/Adjective कुछ/Noun लोगोंके/Adjective भावहिन/Adjective चेहरे/Noun पर/Conjunction डर/Verb के/Preposition भाव/Noun उमटने/Noun लगे/Verb थे/AuxVerb
+कुछ/Adjective लोग/Noun तो/Conjunction चेहरे/Noun पर/Conjunction बिना/Adjective कुछ/Adjective भाव/Noun लाए/Noun उस/Pronoun व्हन/Verb की/Preposition तरफ/Noun देखने/Verb लगे/Verb शायद/Adjective चेहरेपर/Adjective कुछ/Adjective भाव/Noun जताना/Verb भी/Adverb उनको/Noun नागवार/Adjective लगता/Noun होगा/AuxVerb
+पुलिस/Noun व्हन/Adjective आई/Noun उसी/Pronoun गतीमें/Noun गुजर/Verb गई/Verb
+रस्ता/Noun थोडी/Noun देर/Adverb तक/Verb जैसे/Conjunction पाणी/Preposition में/Adjective पत्थर/Noun गिरने/Verb से/Preposition निकलने/Verb वाले/Adjective तरंग/Noun की/Preposition तरह/Noun विचलित/Verb हूवा/Noun और/Conjunction फिर/Conjunction थोडी/Noun देरमें/Noun पुर्ववत/Verb हुवा/Noun
+जैसे/Conjunction कुछ/Adjective हूवा/Noun ही/AuxVerb ना/AuxVerb हो/AuxVerb
+अँजेनी/Adjective फिरसे/Preposition मुडकर/Verb दुकानमें/Adjective जाने/Noun लगी/Verb
+उसे/Pronoun क्या/Conjunction मालूम/Verb था/AuxVerb की/Preposition अभी/Preposition अभी/Preposition जो/Preposition व्हॅन/Adjective रस्ते/Noun से/Preposition गुजर/Verb गई/Verb उसका/Pronoun उसके/Pronoun जिंदगी/Noun से/Preposition भी/Adverb कुछ/Adjective सरोकार/Noun होगा/AuxVerb
+पुलिस/Noun व्हॅन/Preposition एक/Noun साफ/Noun सुधरी/Verb कोलोनीमें/Preposition एक/Noun अपार्टमेंट/Verb के/Preposition निचे/Adverb रुक/Verb गई/Verb
+बस्तीमें/Preposition एक/Adjective अजीब/Adjective सन्नाटा/Noun छाया/Noun हूवा/Noun था/AuxVerb
+पुलिस/Noun व्हॅनसे/Preposition तप्तरताके/Preposition साथ/Noun पुलिस/Noun ऑफीसर/Noun जॉन/Noun और/Conjunction उसकी/Noun टीम/Noun उतर/Noun गई/Verb
+जो/Conjunction लोग/Noun अपार्टमेंटके/Preposition बाल्कनीमें/Adjective बैठकर/Noun सुस्ता/Verb रहे/Verb थे/AuxVerb वह/Pronoun अचंभेसे/Preposition निचे/Adverb पुलिस/Noun व्हॅनकी/Adjective तरफ/Noun देखने/Verb लगे/Verb
+उतरते/PhrasalVerb ही/AuxVerb जॉन/Noun और/Conjunction उसकी/Noun टीम/Noun अपार्टमेंट/Verb की/Preposition लिफ्ट/Verb की/Preposition तरफ/Noun दौड/Verb गई/Verb
+ड्रायव्हरने/Preposition व्हॅन/Preposition अंदर/Adjective ले/Noun जाकर/Noun पार्किंग/Noun लॉटमें/Adjective पार्क/Noun की/Preposition
+जॉन/Noun और/Conjunction उसके/Pronoun सहकारीयोंने/Adjective लिफ्टके/Noun पास/Noun आकर/Noun देखा/Verb तो/Conjunction लिफ्ट/Preposition जगह/Verb पर/Conjunction नही/Noun थी/AuxVerb
+जॉनने/Adjective लिफ्टका/Preposition बटन/Noun दबाया/Verb बहुत/Adjective देर/Adverb से/Preposition राह/Noun देखकरभी/Noun लिफ्ट/Preposition निचे/Adverb नही/Noun आ/Adjective रही/AuxVerb थी/AuxVerb
+शिट/Noun चिढे/Noun हूए/Verb जॉनके/Noun मुंह/Verb से/Preposition निकल/Verb गया/Verb
+अधिरतासे/Preposition जॉन/Noun बार/Adjective बार/Adjective लिफ्टका/Preposition बटन/Noun दबाने/Noun लगा/Verb
+थोडी/Noun देरमें/Preposition लिफ्ट/Preposition निचे/Adverb आ/Adjective गई/Verb
+जॉनने/Adjective लिफ्टका/Preposition बटन/Noun फिरसे/Preposition दबाया/Verb
+लिफ्टका/Preposition दरवाजा/Noun खुल/Noun गया/Verb
+अंदर/Preposition काला/Adjective टी/Noun शर्ट/Noun पहना/Noun हूवा/Noun एकही/Adjective आदमी/Noun था/AuxVerb
+उस/Pronoun हालातमें/Preposition भी/Adverb उसके/Pronoun टी/Noun शर्टपर/Noun लिखे/Verb अक्षरोंने/Adjective जॉन/Noun का/Preposition ध्यान/Noun आकर्षित/Verb किया/AuxVerb
+उस/Pronoun काले/Noun टी/Noun शर्टपर/Preposition सफेद/Preposition अक्षरोंसे/Preposition लिखा/Verb हुवा/Noun था/AuxVerb -'/Verb झीरो'/Preposition
+वह/Pronoun आदमी/Noun बाहर/Preposition आतेही/Adjective जॉन/Noun और/Conjunction उसके/Pronoun साथीदार/Noun लिफ्टमें/Noun घुस/Verb गए/Verb
+लिफ्टमें/Noun जातेही/Preposition जॉनने/Adjective 10/Noun नं/Conjunction
+फ्लोअरका/Adjective बटन/Noun दबाया/Verb
+लिफ्ट/Preposition बंद/Noun होकर/Verb उपरकी/Adjective तरफ/Noun दौडने/Noun लगी/Verb
+10/Verb नं/Conjunction फ्लोअरपर/Preposition लिफ्ट/Noun रुक/Verb गई/Verb
+जॉनके/Noun साथ/Noun सब/Adjective लोग/Noun बाहर/Adjective आ/Adjective गए/Verb
+उन्होने/Noun देखा/Verb की/Preposition उनके/Noun सामने/Verb ही/AuxVerb एक/Adjective फ्लॅटका/Adjective दरवाजा/Noun पुरा/Noun खुला/Adjective हूवा/Noun था/AuxVerb
+सब/Adjective लोग/Noun उस/Pronoun खुले/Adverb फ्लॅटकी/Adjective तरफ/Noun दौड/Verb पडे/Verb
+वे/Pronoun सब/Adjective लोग/Noun एक/Adjective दुसरे/Adjective को/Noun कव्हर/Noun करते/Verb हूए/Verb धीरे/Adverb धीरे/Adverb फ्लॅटके/Noun अंदर/Adjective जाने/Noun लगे/Verb
+हॉलमें/Preposition कोई/Adjective नही/Noun था/AuxVerb
+जॉन/Noun और/Conjunction उसके/Verb और/Conjunction दो/Adjective साथीदार/Noun बेडरुमकी/Adjective तरफ/Noun जाने/Noun लगे/Verb
+बचे/Noun हूए/Verb कुछ/Adjective किचनमें,/Adjective स्टडी/Noun रुममें/Verb और/Conjunction बाकी/Adjective कमरे/Noun देखने/Verb लगे/Verb
+किचन/Verb और/Conjunction स्टडी/Noun रुम/Noun खालीही/Verb थी/AuxVerb
+जॉनको/Noun बेडरूममें/Noun जाते/Verb वक्त/Noun ही/AuxVerb अंदर/Preposition सब/Preposition सामान/Noun बिखरा/Verb हूवा/Noun दीख/Verb गया/Verb
+उसने/Pronoun अपने/Adverb साथीदारको/Noun इशारा/Verb किया/AuxVerb
+जॉन/Noun और/Conjunction उसके/Pronoun दो/Adjective साथीदार/Noun सतर्तकासे/Adjective धीरे/Adverb धीरे/Adverb बेडरुममें/Adjective जाने/Noun लगे/Verb
+वे/Pronoun एक/Adjective दुसरेको/Preposition कव्हर/Noun करते/Verb हूए/Verb अंदर/Preposition जातेही/Adjective उनको/Noun सामने/Preposition बेडरुममे/Noun एक/Adjective भयानक/Adjective दृष्य/Noun दिखाई/Verb दिया/Verb
+एक/Adjective खुन/Noun से/Preposition लथपथ/Adjective आदमी/Noun बेडपर/Noun लिटा/Verb हूवा/Noun था/AuxVerb
+उसके/Pronoun शरीर/Noun में/Preposition कुछ/Adjective हरकत/Noun नही/Noun दिख/InVerb रही/AuxVerb थी/AuxVerb
+या/Conjunction तो/Conjunction वह/Pronoun मर/Verb गया/Verb था/AuxVerb या/Conjunction फिर/Conjunction बेहोश/Verb हो/AuxVerb गया/Verb होगा/AuxVerb
+जॉनने/Noun सामने/Adjective जाकर/Noun उसकी/Noun नब्ज/Noun टटोली/Verb
+वह/Verb तो/Conjunction कबका/Adjective मर/Verb चुका/Verb था/AuxVerb
+इधर/Noun है/AuxVerb इधर'/Noun
+जॉनके/Noun साथ/Noun आया/Verb एक/Adjective साथीदार/Adjective चिल्लाया/Noun
+अब/Adverb जॉनके/Noun पिछे/Verb उसके/Pronoun बाकी/Adjective साथीदार/Noun भी/Adverb अंदर/Adjective आगए/Noun
+जॉनने/Noun आजुबाजू/Adjective अपनी/Adjective मुआयना/Noun करती/Verb हूई/Verb नजर/Noun दौडाई/Verb
+अचानक/Adjective उसका/Adjective ध्यान/Noun जिस/Noun दिवार/Noun को/Adjective बेड/Noun सटकर/Verb लगा/Verb हूवा/Noun था/AuxVerb उस/Pronoun दिवार/Noun ने/Preposition आकर्षीत/Verb किया/AuxVerb
+दिवार/Noun पर/Conjunction खुन/Noun की/Preposition छींटे/Noun उड/Noun गई/Verb थी/AuxVerb या/Conjunction खुन/Noun से/Preposition कुछ/Noun लिखा/Verb हूवा/Noun था/AuxVerb
+जॉनने/Adjective गौर/Noun करकर/Verb देखा/Verb तो/Conjunction वह/Pronoun खुनसे/Noun कुछ/Noun लिखा/Verb हूवाही/Adjective प्रतित/Noun हो/AuxVerb रहा/Verb था/AuxVerb क्योकी/Interrogative दिवारपर/Verb खुनसे/Preposition एक/Adjective गोल/Adjective निकाला/Adjective हूवा/Noun था/AuxVerb
+गोल/Adjective गोल/Adjective का/Preposition क्या/Conjunction मतलब/Verb होगा/AuxVerb
+जॉन/Noun सोचने/Noun लगा/Verb
+और/Conjunction वह/Pronoun खुन/Noun उस/Pronoun मरे/Verb हूए/Verb आदमी/Noun का/Preposition है/AuxVerb या/Conjunction और/Conjunction किसीका/Interrogative
+वह/Pronoun गोल/Adjective खुनी/Noun ने/Preposition निकाला/Adjective होगा/AuxVerb या/Conjunction फिर/Conjunction जो/Conjunction मर/Verb गया/Verb उसने/Pronoun मरनेसे/Preposition पहले/Adjective वह/Pronoun निकाला/Adjective होगा/AuxVerb
+यू/Adjective पिपल/Noun कॅरी/Verb ऑन/Noun
+जॉनने/Noun अपने/Adverb टीमको/Noun उनकी/Noun इन्वेस्टीगेशन/Noun प्रोसीजर/Adjective शुरु/Noun करने/Noun को/Preposition कहा/Preposition
+उसके/Pronoun साथीदार/Noun अपने/Adverb अपने/Adverb काममें/Noun व्यस्त/Verb हो/AuxVerb गए/Verb
+जॉनने/Adjective अपनी/Adjective पैनी/Noun नजर/Adjective एकबार/Noun फिर/Adverb से/Preposition बेडरुमकी/Preposition सब/Preposition चिजे/Preposition निहारते/Verb हूए/Verb दौडाई/Verb
+बेडरुममें/Noun कोनेमें/Noun एक/Adjective टेबल/Noun रखा/Verb हूवा/Noun था/AuxVerb टेबलपर/Noun एक/Adjective तस्वीर/Verb थी/AuxVerb
+तस्वीरके/Noun बाजुमें/Preposition कुछ/Adjective खत/Noun और/Conjunction लिफाफ़े/Noun पडे/Verb हूए/Verb थे/AuxVerb
+जॉन/Noun ने/Preposition एक/Adjective लिफाफ़ा/Noun उठाया/Verb उसपर/Noun लिखा/Verb हूवा/Noun था-प्रति/Verb -/Verb सानी/Noun कार्टर'/Noun
+इसका/Preposition मतलब/Preposition जो/Conjunction मर/Verb गया/Verb था/Verb उसका/Adjective नाम/Noun सानी/Noun कार्टर/Noun था/Verb और/Conjunction वह/Pronoun सब/Adjective खत/Noun उसे/Pronoun पोस्टसे/Preposition आये/Noun हूए/Verb थे/AuxVerb
+जॉन/Noun बाकी/Adjective लिफाफ़े/Noun और/Conjunction खत/Noun उठाकर/Verb देखने/Verb लगा/Verb
+वे/Pronoun खत/Noun छानते/Verb हूए/ जॉन/Noun खिडकी/Noun के/Preposition पास/Noun गया/Verb
+उसने/Pronoun खिडकी/Noun से/Preposition बाहर/Preposition झांककर/Noun देखा/Verb
+बाहर/Adjective बडा/Noun खुबसुरत/Adjective दृष्य/Noun था/AuxVerb -/Verb एक/Adjective गोल/Preposition नयनरम्य/Adjective तालाब/Noun का/Preposition
+उस/Pronoun तालाब/Noun को/Adjective हरी/Noun हरी/Noun हरीयालीने/Adjective घेर/Noun रखा/Verb था/AuxVerb
+वह/Pronoun दृष्य/Noun देखकर/Verb जॉन/Noun कुछ/Adjective पलोंके/Noun लिये/Verb अपने/Adverb आसपासके/Noun मौहोल/Preposition को/Adjective भूल/Noun सा/Noun गया/Verb
+तालाब/Noun की/Preposition तरफ/Noun देखते/Noun देखते/Noun तालाब/Noun के/Preposition आकारने/Noun उसे/Pronoun अपने/Adverb आसपासके/Noun मौहोलसे/Preposition फिरसे/Preposition जोड/Noun दिया/Verb
+क्योंकी/Noun तालाब/Noun का/Preposition आकार/Noun लगभग/Adjective गोलही/Verb था/AuxVerb
+जॉन/Noun फिरसे/Preposition सोचने/Noun लगा-/Adjective दिवारपर/Verb गोलसा/Verb क्या/Conjunction निकाला/Adjective होगा/AuxVerb
+अचानक/Adjective जॉनके/Adjective दिमाग/Noun मे/Preposition एक/Adjective विचार/Noun चौंध/Verb गया/Verb
+गोल/Preposition यानी/Adjective 'झीरो'/Verb तो/Conjunction नही/Noun होगा/AuxVerb हां/Noun गोल/Preposition यानी/Adjective जरुर/Adjective 'झीरो'/Verb ही/AuxVerb होगा/AuxVerb
+जॉन/Noun ने/Preposition आवाज/Noun दिया/Verb सॅम/Noun और/Conjunction तू/Pronoun डॅन/Adjective
+यस/Noun सर/Noun सॅम/Noun और/Conjunction डॅन/Adjective तत्परतासे/Preposition आगे/Adjective आते/Noun हूए/Verb बोले/Verb
+हम/Pronoun जब/Conjunction निचे/Adverb लिफ्टमें/Noun चढे/Verb तब/Conjunction हमें/Noun एक/Adjective काले/Noun टी/Noun शर्टवाला/Adjective आदमी/Noun दिखाई/Verb दिया/Verb और/Conjunction उसके/Pronoun टी/Noun शर्टपर/Preposition झीरो/Preposition ऐसा/Noun लिखा/Verb हूवा/Noun था/AuxVerb तुमने/Noun देखाना/Verb जॉनने/Noun पुछा/Verb
+हां/Noun सरमुझे/Preposition उसका/Adjective चेहरा/Noun भी/Adverb याद/Noun है/AuxVerb सॅमने/Adverb कहा/Preposition
+हां/Noun सरमुझेभी/Adjective याद/Noun है/AuxVerb डॅन/Adjective ने/Preposition कहा/Preposition
+गुड/Noun अब/Adjective तेजीसे/Noun निचे/Adverb जावो/Noun और/Conjunction देखो/Interjection वह/Pronoun निचे/Adverb मिलता/Adjective है/AuxVerb क्या/Conjunction जल्दी/Adjective जावो/Noun वह/Pronoun अबभी/Adjective जादा/Adjective दुरतक/Adjective नही/Noun गया/Verb होगा/AuxVerb
+जॉनके/Noun साथीदार/Adjective सॅम/Noun और/Conjunction डॅन/Adjective लगभग/Adjective दौडते/Verb हूए/Verb ही/AuxVerb निकल/Verb गए/Verb
+जब/Conjunction अँजेनीने/Adjective अपनी/Adjective कार/Noun अपार्टमेंटमें/Noun पार्किंगके/Preposition लिए/Noun घुमाई/Adjective उसे/Pronoun वहाँ/Preposition वह/Pronoun शापींग/Noun करते/Verb वक्त/Noun रस्ते/Noun में/Preposition दिखी/InVerb पुलिस/Noun व्हॅन/Noun दिखाई/Verb दी/Adjective
+उसका/Adjective दिल/Noun जोर/Noun जोर/Noun से/Preposition धडकने/Verb लगा/Verb
+क्या/Conjunction हूवा/Noun होगा/AuxVerb वह/Pronoun कार/Noun से/Preposition उतरकर/Noun अपना/Noun शॉपींग/Verb किया/AuxVerb हूवा/Noun सामान/Adjective लेकर/Verb जल्दी/Noun जल्दी/Noun लिफ्ट/Verb की/Preposition तरफ/Noun चल/Noun पडी/Verb
+जब/Conjunction वह/Pronoun वहाँ/Preposition पहूँची/Verb लिफ्टका/Noun दरवाजा/Noun खुला/Verb और/Conjunction अंदरसे/Preposition दो/Adjective पुलिसके/Noun लोग/Noun बाहर/Adjective आ/Adjective गए/Verb
+पुलीसको/Noun देखकर/Verb उसका/Adjective दिल/Noun औरही/Preposition बैठसा/Noun गया/Verb
+उसने/Pronoun झटसे/Preposition लिफ्टमें/Adjective जाकर/Noun लिफ्टका/Preposition बटन/Noun दबाया/Verb जिसपर/Adjective 10/Noun यह/Pronoun नंबर/Noun लिखा/Verb हूवा/Noun था/AuxVerb
+लिफ्टसे/Preposition बाहर/Preposition आतेही/Verb जब/Conjunction अँजेनीने/Preposition अपने/Adverb खुले/Adverb फ्लॅटके/Noun सामने/Preposition लोगोंकी/Adjective भीड/Noun देखी/Verb उसकेतो/Pronoun हाथ/Noun पांव/Noun कापने/Noun लगे/Verb
+उसके/Pronoun हाथसे/Preposition शॉपींगका/Preposition सारा/Preposition सामान/Noun के/Preposition निचे/Noun गीर/Verb पडा/Verb
+वैसेही/Preposition वह/Pronoun उस/Pronoun भीडकी/Noun तरफ/Noun दौड/Verb पडी/Verb
+क्या/Conjunction हूवा/Noun उसने/Pronoun अंदर/Preposition जाते/Verb हूवे/Noun वहाँ/Preposition जमा/Preposition हूई/Adjective भीडको/Noun पुंछा/Noun
+सब/Adjective लोग/Noun गंभीर/Preposition मुद्रामें/Preposition सिर्फ/Adverb उसकी/Noun तरफ/Noun देखने/Verb लगे/Verb
+किसीकी/Adjective उसको/Pronoun कुछ/Adjective बताने/Adjective की/Preposition हिम्मत/Adjective नही/Noun बनी/Verb
+वह/Pronoun फ्लॅटके/Noun अंदर/Noun चली/Verb गई/Verb सब/Preposition पुलीसवालोंका/Preposition बेडरुमकी/Adjective तरफ/Noun रुख/Noun देखकर/Verb वह/Pronoun बेडरुमकी/Adjective तरफ/Noun चली/Verb गई/Verb
+जाते/Verb जाते/Verb फीरसे/Preposition उसने/Pronoun एक/Adjective पुलीसवालेको/Noun पुछा,/Verb क्या/Conjunction हूवा/Noun
+वह/Pronoun उससे/Adverb आँखे/Noun ना/AuxVerb मिलाते/Verb हूवे/Noun गंभीरतासे/Preposition सिर्फ/Adverb बेडरुमकी/Adjective तरफ/Noun देखने/Verb लगा/Verb
+वह/Pronoun जल्दीसे/Preposition बेडरुमके/Preposition अंदर/Noun चली/Verb गई/Verb सामनेका/Verb दृष्य/Noun देखकर/Verb जैसे/Conjunction अब/Adjective उसकी/Noun बचीकुची/Adjective जान/Noun निकल/Verb गई/Verb थी/AuxVerb
+उसके/Pronoun सामने/Preposition उसके/Pronoun पती/Noun का/Preposition खुनसे/Preposition लथपथ/Preposition शव/Adjective पडा/Noun हूवा/Noun था/AuxVerb उसे/Pronoun अब/Adverb सारा/Adjective कमरा/Noun घुमता/Verb हूवा/Noun नजर/Adjective आने/Noun लगा/Verb और/Conjunction वह/Pronoun अपना/Preposition होशोहवास/Preposition खोकर/Preposition निचे/Adverb गीर/Verb पडी/Noun गिरते/Verb वक्त/Noun उसके/Pronoun मुंहसे/Preposition निकल/Verb गया/Verb
+उसकी/Noun वह/Pronoun हालत/Noun देखकर/Verb बगलमें/Noun खडा/Verb जॉन/Noun झटसे/Adverb उसे/Pronoun सहारा/Verb देने/Verb के/Preposition लिए/Noun सामने/Preposition आया/Verb
+उसने/Pronoun उसे/Pronoun हिलाकर/Verb उसे/Pronoun जगाने/Noun की/Preposition कोशीश/Verb की/Verb
+वह/Pronoun बेहोश/Verb हो/AuxVerb गई/Verb थी/Verb
+लेकिन/Conjunction जब/Conjunction जॉनने/Noun गौर/Verb किया/Verb की/Preposition उसकी/Noun सांस/Noun भी/ शायद/Adjective रुक/Verb चूकी/Verb थी/AuxVerb उसने/Pronoun बगलमें/Adjective खडे/Noun अलेक्स/Preposition को/Adjective आदेश/Noun दिया/Verb कॉल/Noun द/AuxVerb डॉक्टर/Noun इमीडीएटली/Verb आय/Noun थींक/Verb शी/Noun हॅज/Noun गॉट/Verb अ/Noun ट्रिमेंडस/Adjective शॉक/Noun
+अलेक्स/Adjective तत्परतासे/Preposition बगलमें/Noun रखे/Verb फोनके/Noun पास/Noun जाकर/Verb फोन/Noun डायल/Verb करने/Verb लगा/Verb
+डॉक्टर/Noun के/Preposition आने/Verb तक/Preposition कुछ/Noun करना/Verb जरुरी/Adjective था/AuxVerb लेकिन/Conjunction जॉन/Noun को/Verb क्या/Ques करे/Verb कुछ/Noun सुझाई/Verb नही/Noun दे/Verb रहा/Verb था/AuxVerb
+सर/Noun शी/Noun नीड्स/Noun आर्टिफिशीअल/Noun ब्रीदिंग/Adjective किसीने/Noun सुझाव/Noun दिया/Verb
+फिर/Conjunction जॉन/Noun अपने/Adverb मुंह/Noun से/Preposition उसके/Pronoun मुंह/Noun मे/Preposition सांस/Noun भरने/Verb लगा/Verb और/Conjunction बिच/Preposition बिचमे/Adjective उसकी/Noun रुकी/Verb हूई/Adjective धडकन/Noun शुरु/Noun होनेके/Preposition लिए/Noun उसके/Pronoun सिनेपर/Adjective जोर/Noun जोरसे/Preposition दबाव/Noun देने/Verb लगा/Verb
+दबाव/Noun देते/Verb हूए/Verb 101102103/Noun गिनकर/Verb उसने/Pronoun फिरसे/Preposition उसके/Pronoun मुंहमें/Preposition हवा/Noun भरी/Noun और/Conjunction फिरसे/Noun गिनकर/Verb उसके/Pronoun सिनेपर/Adjective दबाव/Noun देने/Verb लगा/Verb
+ऐसा/Noun दो-तीन/Verb बार/Noun करनेके/Adjective बाद/Adverb जॉनने/Noun अँजेनीकी/Adjective सांस/Noun टटोली/Verb
+लेकिन/Conjunction एक/Adjective बार/Adjective गई/Verb हूई/Adjective उसकी/Noun सांस/Noun मानो/Conjunction लौटने/Verb को/Preposition तैयार/Adjective नही/Noun थी/AuxVerb
+उसके/Pronoun सारे/Adverb साथीदार/Noun उसके/Pronoun इर्द-गिर्द/Preposition जमा/Adjective हुए/Verb थे/AuxVerb
+उनको/Noun भी/Verb क्या/Conjunction करे/Verb कुछ/Adjective समझ/Adjective नही/Noun आ/Adjective रहा/Verb था/AuxVerb
+डॉक्टर/Noun के/Preposition आनेतक/Preposition एक/Adjective आखरी/Noun प्रयास/Noun सोचकर/Preposition जॉनने/Adjective फिरसे/Preposition एकबार/Noun अँजेनीके/Preposition मुंहमे/Adjective हवा/Noun भरी/Noun और/Conjunction गिनकर/Verb उसके/Pronoun सिनेपर/Adjective दबाव/Noun देने/Verb लगा/Verb
+हॉस्पीटल/Noun में/Preposition अँजेनीको/Preposition इंटेसीव/Preposition केअर/Adjective युनिट/Noun में/Noun रखा/Verb गया/Verb था/AuxVerb
+बाहर/Adjective दरवाजे/Noun के/Preposition पास/Noun जॉन/Verb और/Conjunction उसका/Pronoun एक/Adjective साथीदार/Adjective खडे/Noun थे/AuxVerb
+इतनें/Pronoun मे/Preposition आयसीयू/Adjective का/Preposition दरवाजा/Noun खुला/Verb और/Conjunction डॉक्टर/Noun बाहर/Adjective आगए/Noun
+जॉन/Noun वह/Verb क्या/Conjunction कहते/Verb है/AuxVerb यह/Pronoun सुननेके/Preposition लिए/Noun बेताब/Adjective उनके/Noun सामने/Adjective जाकर/Noun खडा/Verb होगया/AuxuliaryVerb
+डॉक्टर/Noun ने/Preposition अपने/Adverb चेहरेसे/Noun हरा/Adjective कपडा/Noun हटाते/Verb हूए/Verb कहा/Verb
+जॉन/Noun के/Preposition जानमें/Noun जान/Noun आगई/Noun
+इतने/Pronoun में/Preposition जॉनके/Noun मोबाईलकी/Adjective घंटी/Noun बजी/Verb
+जॉन/Noun ने/Preposition मोबाईलके/Adjective तरफ/Noun देखते/Noun हूए/Verb बटन/Noun दबाते/Verb हूए/Verb कहा/Verb
+यस/Noun सॅम/Noun
+उधर/Preposition से/Preposition आवाज/Noun आई/Verb सर/Noun हमने/Noun उसे/Pronoun सब/Adjective तरफ/Noun ढुंढा/Verb लेकिन/Conjunction वह/Pronoun हमें/Noun नही/Noun मिला/Verb
+नही/Noun मिला/Verb
+उसके/Pronoun जानेमें/Noun और/Conjunction हमारे/Pronoun ढुंढने/Verb में/Preposition ऐसा/Adverb कितना/Adverb फासला/Noun था/AuxVerb
+वह/Pronoun वही/Verb कही/Conjunction आसपास/Noun होना/Adjective चाहिए/Verb था/AuxVerb
+जॉन/Noun ने/Preposition कहा/Verb
+उन/Noun केलों/Noun को/Preposition खाने/Verb के/Preposition लिए/Noun एक/Adjective बन्दर/Noun सीढी/Noun के/Preposition पास/Noun पहुंचा/Noun
+जैसे/Conjunction ही/AuxVerb वह/Pronoun बन्दर/Noun सीढी/Noun पर/Conjunction चढ़ने/Noun लगा/Verb उस/Verb पर/Conjunction बहुत/Adjective सारा/Adjective ठंडा/Noun पानी/Noun गिरा/Noun दिया/Verb गया/Verb और/Conjunction उसके/Pronoun साथ-साथ/Adverb बाकी/Adjective बंदरों/Noun पर/Conjunction भी/Adverb पानी/Noun गिरा/Noun दिया/Verb गया/Verb
+पानी/Noun डालने/Verb पर/Conjunction वह/Pronoun बन्दर/Noun भाग/Verb कर/AuxVerb एक/Adjective कोने/Noun में/Noun चला/Verb गया/Verb
+थोड़ी/Noun नहीं/Noun बाद/Adverb एक/Adjective दूसरा/Adjective बन्दर/Noun सीढी/Noun के/Preposition पास/Noun पहुंचा/Noun
+वह/Verb जैसे/Conjunction ही/AuxVerb सीढी/Noun के/Preposition ऊपर/Noun चढ़ने/Noun लगा/Verb फिर/Conjunction से/Preposition बन्दर/Noun पर/Conjunction ठंडा/Noun पानी/Noun गिरा/Noun दिया/Verb गया/Verb और/Conjunction इसकी/Noun सजा/Verb बाकि/Adjective बंदरों/Noun को/Preposition भी/Adverb मिली/Noun और/Conjunction साथ-साथ/Adverb दूसरे/Adjective बंदरो/Noun पर/Conjunction भी/Adverb ठंडा/Noun पानी/Noun गिरा/Noun दिया/Verb गया/Verb
+ठन्डे/Adjective पानी/Noun के/Preposition कारण/Noun सारे/Adverb बन्दर/Noun भाग/Verb कर/AuxVerb एक/Adjective कोने/Noun में/Noun चले/Verb गए/Verb
+यह/Pronoun प्रक्रिया/Noun चलती/Noun रही/AuxVerb और/Conjunction जैसे/Conjunction ही/AuxVerb कोई/Adjective बन्दर/Noun सीढी/Noun पर/Conjunction केले/Noun खाने/Verb के/Preposition लिए/Noun चढ़ता/Verb उस/Pronoun पर/Conjunction और/Conjunction साथ-साथ/Adverb बाकि/Adjective बंदरों/Noun को/Preposition इसकी/Noun सजा/Verb मिलती/Verb और/Conjunction उन/Noun पर/Conjunction ठंडा/Noun पानी/Noun डाल/Noun दिया/Verb जाता/Adjective
+बहुत/Adjective बार/Adjective ठन्डे/Adjective पानी/Noun की/Preposition सजा/Verb मिलने/Verb पर/Conjunction बन्दर/Noun समझ/Noun गए/Verb कि/Conjunction अगर/Conjunction कोई/Noun भी/Adverb उस/Pronoun सीढी/Noun पर/Conjunction चढ़ने/Noun की/Preposition कोशिश/Noun करेगा/Verb तो/Conjunction इसकी/Noun सजा/Verb सभी/Verb को/Preposition मिलेगी/Verb और/Conjunction उन/Noun सभी/Verb पर/Conjunction ठंडा/Noun पानी/Noun डाल/Noun दिया/Verb जाएगा/Preposition
+अब/Verb जैसे/Conjunction ही/AuxVerb कोई/Adjective बन्दर/Noun सीढी/Noun के/Preposition पास/Noun जाने/Noun की/Preposition कोशिश/Verb करता/Verb तो/Conjunction बाकी/Adjective सारे/Adverb बन्दर/Noun उसकी/Noun पिटाई/Verb कर/AuxVerb देते/Verb और/Conjunction उसे/Pronoun सीढी/Noun के/Preposition पास/Noun जाने/Noun से/Preposition रोक/Noun देते/Verb
+थोड़ी/Adjective नहीं/Noun बाद/Adverb उस/Pronoun बड़े/Adjective से/Preposition पिंजरे/Verb में/Preposition से/Preposition एक/Adjective बन्दर/Noun को/Preposition निकाल/Verb दिया/Verb गया/Verb और/Conjunction उसकी/Noun जगह/Adjective एक/Adjective नए/Adverb बन्दर/Noun को/Preposition डाला/Noun गया/Verb
+नए/Adverb बन्दर/Noun की/Preposition नजर/Adjective केलों/Noun पर/Preposition पड़ी/Noun
+नया/Adjective बन्दर/Noun वहां/Noun की/Preposition परिस्थिति/Noun के/Preposition बारे/Verb में/Verb नहीं/Noun जानता/Verb था/AuxVerb इसलिए/Conjunction वह/Pronoun केले/Noun खाने/Verb के/Preposition लिए/Adjective सीढी/Noun की/Preposition तरफ/Noun भागा/Verb
+जैसे/Conjunction ही/AuxVerb वह/Pronoun बन्दर/Noun उस/Pronoun सीढी/Noun की/Preposition तरफ/Noun भागा/Verb बाकि/Adjective सारे/Adverb बंदरों/Noun ने/Preposition उसकी/Noun पिटाई/Verb कर/AuxVerb दी/Adjective
+नया/Adjective बन्दर/Noun यह/Pronoun समझ/Verb नहीं/Noun पा/Verb रहा/Verb था/AuxVerb कि/Conjunction उसकी/Noun पिटाई/Preposition क्यों/Adjective हुई/Noun
+लेकिन/Conjunction जोरदार/Adjective पिटाई/Noun से/Preposition डरकर/Noun उसने/Pronoun केले/Noun खाने/Verb का/Preposition विचार/Noun छोड़/Verb दिया/Verb
+अब/Verb फिर/Conjunction एक/Adjective पुराने/Noun बन्दर/Noun को/Preposition उस/Pronoun पिंजरे/Verb से/Preposition निकाला/Adjective गया/Verb और/Conjunction उसकी/Noun जगह/Adjective एक/Adjective नए/Adverb बन्दर/Noun को/Preposition पिंजरे/Verb में/Preposition डाला/Noun गया/Verb
+नया/Adjective बन्दर/Noun बेचारा/Adjective वहां/Noun की/Preposition परिस्थिति/Noun को/Preposition नहीं/Noun जनता/Noun था/AuxVerb इसलिए/Conjunction वह/Pronoun केले/Noun खाने/Verb के/Preposition लिए/Adjective सीढी/Noun की/Preposition तरफ/Noun जाने/Noun लगा/Verb और/Conjunction यह/Pronoun देखकर/Noun बाकी/Adjective सारे/Adverb बंदरों/Noun ने/Preposition उसकी/Noun पिटाई/Verb कर/AuxVerb दी/Adjective
+पिटाई/Adjective करने/Noun वालों/Adjective में/Preposition पिछली/Adjective बार/Noun आया/Verb नया/Adjective बन्दर/Noun भी/Adverb शामिल/Verb था/AuxVerb जबकि/Conjunction उसे/Pronoun यह/Adjective भी/Adverb नहीं/Noun पता/Noun था/AuxVerb कि/Conjunction यह/Adjective पिटाई/Adjective क्यों/Verb हो/AuxVerb रही/AuxVerb है/AuxVerb
+यह/Pronoun प्रक्रिया/Noun चलती/Noun रही/AuxVerb और/Conjunction एक-एक/Adverb करके/Noun पुराने/Noun बंदरों/Noun की/Preposition देर/Adverb नए/Adverb बंदरों/Noun को/Noun पिंजरे/Verb में/Preposition डाला/Noun जाने/Noun लगा/Verb जैसे/Conjunction ही/AuxVerb कोई/Noun नया/Adjective बन्दर/Noun पिंजरे/Verb में/Preposition आता/Verb और/Conjunction केले/Noun खाने/Verb के/Preposition लिए/Adjective सीढी/Noun के/Preposition पास/Noun जाने/Noun लगता/Verb तो/Conjunction बाकी/Adjective सारे/Adverb बन्दर/Noun उसकी/Noun पिटाई/Verb कर/AuxVerb देते/Verb
+अब/Noun पिंजरे/Verb में/Preposition सारे/Adverb नए/Adverb बन्दर/Noun थे/AuxVerb जिनके/Noun ऊपर/Preposition एक/Adjective बार/Noun भी/Adverb ठंडा/Noun पानी/Noun नहीं/Noun डाला/Noun गया/Verb था/AuxVerb
+उनमें/Preposition से/Preposition किसी/Noun को/Preposition यह/Pronoun नहीं/Noun पता/Noun था/AuxVerb कि/Conjunction केले/Noun खाने/Verb के/Preposition लिए/Adjective सीढी/Noun के/Preposition पास/Noun जाने/Noun वाले/Adjective की/Preposition पिटाई/Verb क्यों/Verb होती/AuxVerb है/AuxVerb लेकिन/Conjunction उन/Noun सबकी/Verb एक-एक/Adverb बार/Noun पिटाई/Verb हो/AuxVerb चुकी/Verb थी/AuxVerb
+अब/Adverb एक/Adjective और/Conjunction बन्दर/Noun को/Noun पिंजरे/Verb में/Preposition डाला/Noun गया/Verb और/Conjunction आश्चर्य/Noun कि/Verb फिर/Conjunction से/Preposition वही/Adjective हुआ/Verb
+सारे/Adverb बंदरों/Noun ने/Preposition उस/Pronoun नए/Adverb बन्दर/Noun को/Preposition सीढी/Noun के/Preposition पास/Noun जाने/Noun से/Preposition रोक/Noun दिया/Verb और/Conjunction उसकी/Noun पिटाई/Verb कर/AuxVerb दी/Adjective जबकि/Conjunction पिटाई/Verb करने/Noun वालों/Adjective में/Preposition से/Preposition किसी/Adjective को/Preposition भी/Adverb यह/Pronoun नहीं/Noun पता/Noun था/AuxVerb कि/Conjunction वह/Noun पिटाई/Verb क्यों/Verb कर/AuxVerb रहे/Verb है/AuxVerb
+हमारे/Noun जीवन/Noun भी/Adverb ऐसा/Verb ही/AuxVerb कुछ/Noun होता/Verb है/AuxVerb
+अन्धविश्वास/Noun और/Conjunction कुप्रथाओं/Noun का/Preposition चलन/Noun भी/Adverb कुछ/Adjective इसी/Adverb तरह/Noun होता/Verb है/AuxVerb क्योंकि/Adjective उन/Noun हम/Pronoun लोग/Noun प्रथाओं/Noun और/Conjunction रीति-रिवाजों/Noun के/Preposition पीछे/Adjective का/Preposition कारण/Adjective जाने/Noun बिना/Verb ही/AuxVerb उनका/Pronoun पालन/Noun करते/Verb रहते/Verb है/AuxVerb और/Conjunction नए/Adverb कदम/Noun उठाने/Verb की/Preposition हिम्मत/Noun कोई/Verb नहीं/Noun करता/Noun क्योंकि/Adjective ऐसा/Adjective करने/Noun पर/Conjunction समाज/Noun के/Preposition विरोध/Noun करने/Noun का/Preposition डर/Adjective बना/Noun रहता/Verb है/AuxVerb
+कोई/Noun भी/Adverb कुछ/Adjective नया/Adjective करने/Noun की/Preposition सोचता/Verb है/AuxVerb तो/Conjunction उसे/Pronoun कहीं/Noun न/Noun कहीं/Noun लोगों/Noun के/Preposition विरोध/Noun का/Preposition सामना/Verb करना/Verb ही/AuxVerb पड़ता/Noun है/AuxVerb
+भारत/Noun की/Preposition जनसँख्या/Noun 121/Adjective करोड़/Noun से/Preposition ऊपर/Noun है/AuxVerb लेकिन/Conjunction भारत/Noun खेलों/Noun में/Preposition बहुत/Adjective पीछे/Verb है/AuxVerb क्योंकि/Conjunction ज्यादातर/Adverb अभिवावक/Preposition अपने/Adverb बच्चों/Noun को/Noun खेल/Verb के/Preposition क्षेत्र/Noun में/Preposition जाने/Noun से/Preposition रोकते/Verb है/AuxVerb क्योंकि/Conjunction बाकी/Adjective सारा/Adjective समाज/Noun भी/Adverb ऐसा/Verb ही/AuxVerb कर/AuxVerb रहा/Verb है/AuxVerb उन्हें/Noun असफलता/Noun का/Preposition डर/Noun लगा/Verb रहता/Verb है/AuxVerb
+ये/Pronoun बड़ी/Noun अजीब/Adjective बात/Noun है/AuxVerb कि/Conjunction अभी/Adjective हाल/Noun ही/AuxVerb में/Preposition उतरप्रदेश/Noun में/Preposition चपरासी/Noun के/Preposition सिर्फ/Adverb 368/Adjective पदों/Noun के/Preposition लिए/Adjective 23/Noun लाख/Noun आवेदन/Noun आए/Verb थे/AuxVerb और/Conjunction उसमें/Adverb से/Preposition भी/Adverb 15/Noun लाख/Noun ग्रेजुएट्स/Verb 25000/Adjective पोस्ट/Noun ग्रेजुएट्स/Verb थे/AuxVerb और/Conjunction 250/Adjective आवेदक/Noun ऐसे/Preposition थे/AuxVerb जिन्होंने/Noun पीएचडी/Verb की/Preposition हुई/Noun थी/AuxVerb
+दूसरी/Adverb तरफ/Noun भारत/Noun को/Preposition आज/Adverb भी/Adverb विदेशों/Adjective से/Preposition लाखों/Noun करोड़/Noun का/Preposition सामान/Noun इम्पोर्ट/Verb करना/Verb पड़ता/Noun है/Verb और/Conjunction खेल/Verb जैसे/Conjunction क्षेत्र/Noun में/Preposition भारत/Noun बहुत/Adjective पीछे/Verb है/Verb
+संभावनाएं/Verb बहुत/Verb है/AuxVerb लेकिन/Conjunction हम/Pronoun उन्हें/Noun देख/Verb नहीं/Noun पाते/Noun क्योंकि/Conjunction हम/Pronoun भीड़चाल/Noun में/Preposition चलते/Verb है/AuxVerb
+ये/Pronoun हमारी/Pronoun मानसिकता/Noun ही/AuxVerb है/AuxVerb जो/Conjunction हमें/Pronoun पीछे/Noun धकेल/Verb रही/AuxVerb है/AuxVerb
+ हम/Pronoun चाहें/Conjunction तो/Conjunction बन्दर/Noun की/Preposition तरह/Noun लोगों/Noun की/Preposition देखा/Verb देखी/Verb कर/AuxVerb सकते/Verb या/Conjunction फिर/Conjunction खुद/Verb की/Preposition स्वतन्त्र/Noun सोच/Verb के/Preposition बल/Noun पर/Preposition सफलता/Verb की/Preposition सीढी/Noun चढ़/Verb सकते/Verb है/AuxVerb
+8/Noun जनवरी/Noun 1942/Preposition को/Preposition स्टीफन/Noun हॉकिंग/Noun का/Preposition जन्म/Noun हुआ/Verb था/AuxVerb
+ हालांकि/Conjunction वे/Pronoun एक/Adjective अच्छे/Noun शिक्षित/Adjective परिवार/Noun में/Preposition पैदा/Adjective हुए/Verb थे/AuxVerb परन्तु/Conjunction उनके/Pronoun परिवार/Noun की/Preposition आर्थिक/Adjective अवस्था/Noun ठीक/Verb नहीं/Noun थी/AuxVerb
+ द्वितीय/Adjective विश्व/Noun युद्ध/Noun का/Preposition समय/Noun आजीविका/Adjective अर्जन/Noun के/Preposition लिए/Noun काफी/Noun चुनौतीपूर्ण/Verb था/Verb और/Conjunction एक/Adjective सुरक्षित/Noun जगह/Verb की/Preposition तलाश/Noun में/Preposition उनका/Pronoun परिवार/Noun ऑक्सफोर्ड/Adjective आ/Adjective गया/Verb
